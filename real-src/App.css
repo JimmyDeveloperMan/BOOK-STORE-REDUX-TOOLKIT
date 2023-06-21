@@ -1,7 +1,8 @@
+
 .navbar {
   background-color: #282c34;
 }
 span,
-.navbar .container a {
+a {
   color: white !important;
 }
