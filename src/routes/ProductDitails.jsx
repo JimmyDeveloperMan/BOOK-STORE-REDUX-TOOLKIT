@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from "react-redux";
 import { addToCart } from "../store/slices/cart-slice";
 import { useEffect } from "react";
 import { cleanUpProduct, productDitails } from "../store/slices/products-slice";
-import useProductData from "../useProductData";
 import Loading from "../components/Loading";
 import { Link, useParams } from "react-router-dom";
 import Header from "../components/Header";

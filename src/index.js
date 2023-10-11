@@ -14,14 +14,14 @@ import ErrorPage from "./routes/ErrorPage";
 
 const RootLayout = lazy(() => import("./routes/RootLayout"));
 const Cart = lazy(() => import("./routes/Cart"));
-const productsParamsHandler = ({ params }) => {
-  if (isNaN(params.id) )
-    throw new Response("Bad Request", {
-      statusText: "Please enter a valid Link.",
-      status: 400,
-    });
-    return params;
-};
+// const productsParamsHandler = ({ params }) => {
+//   if (isNaN(params.id) )
+//     throw new Response("Bad Request", {
+//       statusText: "Please enter a valid Link.",
+//       status: 400,
+//     });
+//     return params;
+// };
 const loadingMessage = <center>loading Please Wait...</center>;
 const routes = createBrowserRouter([
   {

@@ -1,12 +1,10 @@
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
-import { Col, Container, Row } from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { addToCart } from "../store/slices/cart-slice";
 
-import { useNavigate, useParams } from "react-router-dom";
-import { productDitails } from "../store/slices/products-slice";
-import { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 
 function Products() {
   const { products } = useSelector((state) => state.productsSlice);
@@ -26,7 +24,7 @@ function Products() {
               <Card.Body>
                 <Card.Title
                   style={{ cursor: "pointer" }}
-                  onClick={() =>   navigate(`products/${el.id}/details`)}
+                  onClick={() => navigate(`products/${el.id}/details`)}
                 >
                   {el.title}
                 </Card.Title>
