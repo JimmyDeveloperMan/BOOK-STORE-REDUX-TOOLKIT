@@ -1,0 +1,3596 @@
+
+{
+  "books": [
+    {
+        "id": "3030168778",
+        "title": "Programming for Computations - Python",
+        "subtitle": "A Gentle Introduction to Numerical Simulations with Python 3.6",
+        "authors": "Svein Linge, Hans Petter Langtangen",
+        "image": "https://www.dbooks.org/img/books/3030168778s.jpg",
+        "url": "https://www.dbooks.org/programming-for-computations-python-3030168778/",
+        "price": "19.99"
+    },
+    {
+        "id": "3319324284",
+        "title": "Programming for Computations - Python",
+        "subtitle": "A Gentle Introduction to Numerical Simulations with Python",
+        "authors": "Svein Linge, Hans Petter Langtangen",
+        "image": "https://www.dbooks.org/img/books/3319324284s.jpg",
+        "url": "https://www.dbooks.org/programming-for-computations-python-3319324284/",
+        "price": "8.49"
+    },
+    {
+        "id": "1503212300",
+        "title": "Invent Your Own Computer Games with Python",
+        "subtitle": "A beginner&#039;s guide to computer programming in Python",
+        "authors": "Al Sweigart",
+        "image": "https://www.dbooks.org/img/books/1503212300s.jpg",
+        "url": "https://www.dbooks.org/invent-your-own-computer-games-with-python-1503212300/",
+        "price": "5.99"
+    },
+    {
+        "id": "1586",
+        "title": "Coffee Break Python Slicing",
+        "subtitle": "24 Workouts to Master Slicing in Python, Once and for All",
+        "authors": "Christian Mayer",
+        "image": "https://www.dbooks.org/img/books/1586s.jpg",
+        "url": "https://www.dbooks.org/coffee-break-python-slicing-1586/",
+        "price": "8.49"
+    },
+    {
+        "id": "1912047918",
+        "title": "Create Graphical User Interfaces with Python",
+        "subtitle": "How to build windows, buttons, and widgets for your Python projects",
+        "authors": "Martin O&#039;Hanlon, Laura Sach",
+        "image": "https://www.dbooks.org/img/books/1912047918s.jpg",
+        "url": "https://www.dbooks.org/create-graphical-user-interfaces-with-python-1912047918/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319524623",
+        "title": "Solving PDEs in Python",
+        "subtitle": "The FEniCS Tutorial I",
+        "authors": "Hans Petter Langtangen, Anders Logg",
+        "image": "https://www.dbooks.org/img/books/3319524623s.jpg",
+        "url": "https://www.dbooks.org/solving-pdes-in-python-3319524623/",
+        "price": "5.99"
+    },
+    {
+        "id": "1482614375",
+        "title": "Hacking Secret Ciphers with Python",
+        "subtitle": "A beginner&#039;s guide to cryptography and computer programming with Python",
+        "authors": "Al Sweigart",
+        "image": "https://www.dbooks.org/img/books/1482614375s.jpg",
+        "url": "https://www.dbooks.org/hacking-secret-ciphers-with-python-1482614375/",
+        "price": "12.99"
+    },
+    {
+        "id": "1469901730",
+        "title": "Making Games with Python &amp; Pygame",
+        "subtitle": "A guide to programming with graphics, animation, and sound",
+        "authors": "Al Sweigart",
+        "image": "https://www.dbooks.org/img/books/1469901730s.jpg",
+        "url": "https://www.dbooks.org/making-games-with-python-pygame-1469901730/",
+        "price": "10.99"
+    },
+    {
+        "id": "099977302X",
+        "title": "Python Machine Learning Projects",
+        "subtitle": "",
+        "authors": "Lisa Tagliaferri, Michelle Morales, Ellie Birkbeck, Alvin Wan",
+        "image": "https://www.dbooks.org/img/books/099977302Xs.jpg",
+        "url": "https://www.dbooks.org/python-machine-learning-projects-099977302x/",
+        "price": "24.99"
+    },
+    {
+        "id": "1515",
+        "title": "Introduction to Python for Computational Science and Engineering",
+        "subtitle": "A beginner&#039;s guide",
+        "authors": "Hans Fangohr",
+        "image": "https://www.dbooks.org/img/books/1515s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-python-for-computational-science-and-engineering-1515/",
+        "price": "8.49"
+    },
+    {
+        "id": "0999773011",
+        "title": "How To Code in Python 3",
+        "subtitle": "",
+        "authors": "Lisa Tagliaferri",
+        "image": "https://www.dbooks.org/img/books/0999773011s.jpg",
+        "url": "https://www.dbooks.org/how-to-code-in-python-3-0999773011/",
+        "price": "8.49"
+    },
+    {
+        "id": "1491964650",
+        "title": "A Whirlwind Tour of Python",
+        "subtitle": "",
+        "authors": "Jake VanderPlas",
+        "image": "https://www.dbooks.org/img/books/1491964650s.jpg",
+        "url": "https://www.dbooks.org/a-whirlwind-tour-of-python-1491964650/",
+        "price": "10.99"
+    },
+    {
+        "id": "5591650063",
+        "title": "Python Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591650063s.jpg",
+        "url": "https://www.dbooks.org/python-notes-for-professionals-5591650063/",
+        "price": "29.99"
+    },
+    {
+        "id": "5595844388",
+        "title": "The Coder&#039;s Apprentice",
+        "subtitle": "Learning Programming with Python 3",
+        "authors": "Pieter Spronck",
+        "image": "https://www.dbooks.org/img/books/5595844388s.jpg",
+        "url": "https://www.dbooks.org/the-coders-apprentice-5595844388/",
+        "price": "7.99"
+    },
+    {
+        "id": "3030503569",
+        "title": "Introduction to Scientific Programming with Python",
+        "subtitle": "",
+        "authors": "Joakim Sundnes",
+        "image": "https://www.dbooks.org/img/books/3030503569s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-scientific-programming-with-python-3030503569/",
+        "price": "6.49"
+    },
+    {
+        "id": "5614606548",
+        "title": "Snake Wrangling for Kids",
+        "subtitle": "Learning to Program with Python",
+        "authors": "Jason Briggs",
+        "image": "https://www.dbooks.org/img/books/5614606548s.jpg",
+        "url": "https://www.dbooks.org/snake-wrangling-for-kids-5614606548/",
+        "price": "24.99"
+    },
+    {
+        "id": "1530051126",
+        "title": "Python for Everybody",
+        "subtitle": "Exploring Data Using Python 3",
+        "authors": "Dr. Charles Severance",
+        "image": "https://www.dbooks.org/img/books/1530051126s.jpg",
+        "url": "https://www.dbooks.org/python-for-everybody-1530051126/",
+        "price": "8.49"
+    },
+    {
+        "id": "5616397074",
+        "title": "Python for You and Me",
+        "subtitle": "",
+        "authors": "Kushal Das",
+        "image": "https://www.dbooks.org/img/books/5616397074s.jpg",
+        "url": "https://www.dbooks.org/python-for-you-and-me-5616397074/",
+        "price": "6.49"
+    },
+    {
+        "id": "5656491028",
+        "title": "Open Workbook of Cryptology",
+        "subtitle": "A project-based introduction to crypto in Python",
+        "authors": "Jonathan A. Poritz",
+        "image": "https://www.dbooks.org/img/books/5656491028s.jpg",
+        "url": "https://www.dbooks.org/open-workbook-of-cryptology-5656491028/",
+        "price": "19.99"
+    },
+    {
+        "id": "5670579292",
+        "title": "Learn Python the right way",
+        "subtitle": "How to think like a computer scientist",
+        "authors": "Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers",
+        "image": "https://www.dbooks.org/img/books/5670579292s.jpg",
+        "url": "https://www.dbooks.org/learn-python-the-right-way-5670579292/",
+        "price": "7.99"
+    },
+    {
+        "id": "1491939362",
+        "title": "Think Python",
+        "subtitle": "How to Think Like a Computer Scientist",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1491939362s.jpg",
+        "url": "https://www.dbooks.org/think-python-1491939362/",
+        "price": "12.99"
+    },
+    {
+        "id": "847",
+        "title": "Modeling and Simulation in Python",
+        "subtitle": "",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/847s.jpg",
+        "url": "https://www.dbooks.org/modeling-and-simulation-in-python-847/",
+        "price": "14.99"
+    },
+    {
+        "id": "1200",
+        "title": "Fundamentals of Python Programming",
+        "subtitle": "",
+        "authors": "Richard L. Halterman",
+        "image": "https://www.dbooks.org/img/books/1200s.jpg",
+        "url": "https://www.dbooks.org/fundamentals-of-python-programming-1200/",
+        "price": "19.99"
+    },
+    {
+        "id": "1219",
+        "title": "A Byte of Python",
+        "subtitle": "",
+        "authors": "Swaroop C H",
+        "image": "https://www.dbooks.org/img/books/1219s.jpg",
+        "url": "https://www.dbooks.org/a-byte-of-python-1219/",
+        "price": "29.99"
+    },
+    {
+        "id": "0991160401",
+        "title": "Annotated Algorithms in Python",
+        "subtitle": "With applications in Physics, Biology, and Finance",
+        "authors": "Massimo Di Pierro",
+        "image": "https://www.dbooks.org/img/books/0991160401s.jpg",
+        "url": "https://www.dbooks.org/annotated-algorithms-in-python-0991160401/",
+        "price": "29.99"
+    },
+    {
+        "id": "1542",
+        "title": "Biopython: Tutorial and Cookbook",
+        "subtitle": "Python Tools for Computational Molecular Biology",
+        "authors": "Jeff Chang, Brad Chapman, Iddo Friedberg, Thomas Hamelryck, Michiel de Hoon, Peter Cock, Tiago Antao, Eric Talevich, Bartek Wilczyński",
+        "image": "https://www.dbooks.org/img/books/1542s.jpg",
+        "url": "https://www.dbooks.org/biopython-tutorial-and-cookbook-1542/",
+        "price": "14.99"
+    },
+    {
+        "id": "1491934476",
+        "title": "How to Make Mistakes in Python",
+        "subtitle": "",
+        "authors": "Mike Pirnat",
+        "image": "https://www.dbooks.org/img/books/1491934476s.jpg",
+        "url": "https://www.dbooks.org/how-to-make-mistakes-in-python-1491934476/",
+        "price": "14.99"
+    },
+    {
+        "id": "1590",
+        "title": "Python re(gex)?",
+        "subtitle": "A magical tool for text processing",
+        "authors": "Sundeep Agarwal",
+        "image": "https://www.dbooks.org/img/books/1590s.jpg",
+        "url": "https://www.dbooks.org/python-regex-1590/",
+        "price": "12.99"
+    },
+    {
+        "id": "1449341934",
+        "title": "Programming Computer Vision with Python",
+        "subtitle": "Tools and algorithms for analyzing images",
+        "authors": "Jan Erik Solem",
+        "image": "https://www.dbooks.org/img/books/1449341934s.jpg",
+        "url": "https://www.dbooks.org/programming-computer-vision-with-python-1449341934/",
+        "price": "14.99"
+    },
+    {
+        "id": "5591691523",
+        "title": "Full Speed Python",
+        "subtitle": "",
+        "authors": "João Ventura",
+        "image": "https://www.dbooks.org/img/books/5591691523s.jpg",
+        "url": "https://www.dbooks.org/full-speed-python-5591691523/",
+        "price": "19.99"
+    },
+    {
+        "id": "5592544642",
+        "title": "Robotic Process Automation Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/5592544642s.jpg",
+        "url": "https://www.dbooks.org/robotic-process-automation-succinctly-5592544642/",
+        "price": "6.49"
+    },
+    {
+        "id": "1722834927",
+        "title": "Learn Programming",
+        "subtitle": "Your Guided Tour Through the Programming Jungle",
+        "authors": "Antti Salonen",
+        "image": "https://www.dbooks.org/img/books/1722834927s.jpg",
+        "url": "https://www.dbooks.org/learn-programming-1722834927/",
+        "price": "8.49"
+    },
+    {
+        "id": "5614772358",
+        "title": "A Practical Introduction to Python Programming",
+        "subtitle": "",
+        "authors": "Brian Heinold",
+        "image": "https://www.dbooks.org/img/books/5614772358s.jpg",
+        "url": "https://www.dbooks.org/a-practical-introduction-to-python-programming-5614772358/",
+        "price": "7.99"
+    },
+    {
+        "id": "191204773X",
+        "title": "Raspberry Pi Beginner&#039;s Guide",
+        "subtitle": "How to use your new computer",
+        "authors": "Gareth Halfacree",
+        "image": "https://www.dbooks.org/img/books/191204773Xs.jpg",
+        "url": "https://www.dbooks.org/raspberry-pi-beginners-guide-191204773x/",
+        "price": "8.49"
+    },
+    {
+        "id": "0971677506",
+        "title": "How to Think Like a Computer Scientist",
+        "subtitle": "Learning with Python",
+        "authors": "Allen Downey, Jeffrey Elkner, Chris Meyers",
+        "image": "https://www.dbooks.org/img/books/0971677506s.jpg",
+        "url": "https://www.dbooks.org/how-to-think-like-a-computer-scientist-0971677506/",
+        "price": "6.49"
+    },
+    {
+        "id": "5635274259",
+        "title": "First Semester in Numerical Analysis with Python",
+        "subtitle": "",
+        "authors": "Yaning Liu",
+        "image": "https://www.dbooks.org/img/books/5635274259s.jpg",
+        "url": "https://www.dbooks.org/first-semester-in-numerical-analysis-with-python-5635274259/",
+        "price": "29.99"
+    },
+    {
+        "id": "1003181376",
+        "title": "Developing Graphics Frameworks with Python and OpenGL",
+        "subtitle": "",
+        "authors": "Lee Stemkoski, Michael Pascale",
+        "image": "https://www.dbooks.org/img/books/1003181376s.jpg",
+        "url": "https://www.dbooks.org/developing-graphics-frameworks-with-python-and-opengl-1003181376/",
+        "price": "19.99"
+    },
+    {
+        "id": "3319554565",
+        "title": "Finite Difference Computing with PDEs",
+        "subtitle": "A Modern Software Approach",
+        "authors": "Hans Petter Langtangen, Svein Linge",
+        "image": "https://www.dbooks.org/img/books/3319554565s.jpg",
+        "url": "https://www.dbooks.org/finite-difference-computing-with-pdes-3319554565/",
+        "price": "29.99"
+    },
+    {
+        "id": "3319294393",
+        "title": "Finite Difference Computing with Exponential Decay Models",
+        "subtitle": "",
+        "authors": "Hans Petter Langtangen",
+        "image": "https://www.dbooks.org/img/books/3319294393s.jpg",
+        "url": "https://www.dbooks.org/finite-difference-computing-with-exponential-decay-models-3319294393/",
+        "price": "24.99"
+    },
+    {
+        "id": "1449370780",
+        "title": "Think Bayes",
+        "subtitle": "Bayesian Statistics in Python",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1449370780s.jpg",
+        "url": "https://www.dbooks.org/think-bayes-1449370780/",
+        "price": "8.49"
+    },
+    {
+        "id": "1491938455",
+        "title": "Think DSP",
+        "subtitle": "Digital Signal Processing in Python",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1491938455s.jpg",
+        "url": "https://www.dbooks.org/think-dsp-1491938455/",
+        "price": "7.99"
+    },
+    {
+        "id": "3030223868",
+        "title": "Bioimage Data Analysis Workflows",
+        "subtitle": "",
+        "authors": "Kota Miura, Nataša Sladoje",
+        "image": "https://www.dbooks.org/img/books/3030223868s.jpg",
+        "url": "https://www.dbooks.org/bioimage-data-analysis-workflows-3030223868/",
+        "price": "8.49"
+    },
+    {
+        "id": "1241",
+        "title": "The Little Book of Semaphores",
+        "subtitle": "",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1241s.jpg",
+        "url": "https://www.dbooks.org/the-little-book-of-semaphores-1241/",
+        "price": "5.99"
+    },
+    {
+        "id": "1912047527",
+        "title": "Raspberry Pi Camera Guide",
+        "subtitle": "For Camera Module &amp; High Quality Camera",
+        "authors": "Dan Aldred, Wesley Archer, Jody Carter, PJ Evans,\nRichard Hayler, James Singleton, Rob Zwetsloot",
+        "image": "https://www.dbooks.org/img/books/1912047527s.jpg",
+        "url": "https://www.dbooks.org/raspberry-pi-camera-guide-1912047527/",
+        "price": "12.99"
+    },
+    {
+        "id": "1252",
+        "title": "Retro Gaming with Raspberry Pi",
+        "subtitle": "",
+        "authors": "Bob Clagett, David Crookes, PJ Evans, Rosie Hattersley, KG Orphanides, Ruiz Brothers, Mark Vanstone",
+        "image": "https://www.dbooks.org/img/books/1252s.jpg",
+        "url": "https://www.dbooks.org/retro-gaming-with-raspberry-pi-1252/",
+        "price": "8.49"
+    },
+    {
+        "id": "1524",
+        "title": "Qt5 Cadaques",
+        "subtitle": "",
+        "authors": "J. Ryannel, J. Thelin",
+        "image": "https://www.dbooks.org/img/books/1524s.jpg",
+        "url": "https://www.dbooks.org/qt5-cadaques-1524/",
+        "price": "5.99"
+    },
+    {
+        "id": "396110090X",
+        "title": "The Unicode Cookbook for Linguists",
+        "subtitle": "Managing writing systems using orthography profiles",
+        "authors": "Steven Moran, Michael Cysouw",
+        "image": "https://www.dbooks.org/img/books/396110090Xs.jpg",
+        "url": "https://www.dbooks.org/the-unicode-cookbook-for-linguists-396110090x/",
+        "price": "14.99"
+    },
+    {
+        "id": "5606038334",
+        "title": "Learning Vim",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606038334s.jpg",
+        "url": "https://www.dbooks.org/learning-vim-5606038334/",
+        "price": "14.99"
+    },
+    {
+        "id": "180064177X",
+        "title": "Inventory Analytics",
+        "subtitle": "",
+        "authors": "Roberto Rossi",
+        "image": "https://www.dbooks.org/img/books/180064177Xs.jpg",
+        "url": "https://www.dbooks.org/inventory-analytics-180064177x/",
+        "price": "19.99"
+    },
+    {
+        "id": "1912047594",
+        "title": "Code the Classics",
+        "subtitle": "Volume 1",
+        "authors": "David Crookes, Andrew Gillett, Liz Upton, Eben Upton, Sean M. Tracey, Dan Malone, Allister Brimble",
+        "image": "https://www.dbooks.org/img/books/1912047594s.jpg",
+        "url": "https://www.dbooks.org/code-the-classics-1912047594/",
+        "price": "7.99"
+    },
+    {
+        "id": "164200216X",
+        "title": "Ansible Succinctly",
+        "subtitle": "",
+        "authors": "Zoran Maksimovic",
+        "image": "https://www.dbooks.org/img/books/164200216Xs.jpg",
+        "url": "https://www.dbooks.org/ansible-succinctly-164200216x/",
+        "price": "5.99"
+    },
+    {
+        "id": "5655289669",
+        "title": "Retro Gaming with Raspberry Pi",
+        "subtitle": "",
+        "authors": "David Crookes, PJ Evans, Rosie Hattersley, Nicola King, Phil King, KG Orphanides, Mark Vanstone",
+        "image": "https://www.dbooks.org/img/books/5655289669s.jpg",
+        "url": "https://www.dbooks.org/retro-gaming-with-raspberry-pi-5655289669/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319327267",
+        "title": "Scaling of Differential Equations",
+        "subtitle": "",
+        "authors": "Hans Petter Langtangen, Geir K. Pedersen",
+        "image": "https://www.dbooks.org/img/books/3319327267s.jpg",
+        "url": "https://www.dbooks.org/scaling-of-differential-equations-3319327267/",
+        "price": "29.99"
+    },
+    {
+        "id": "3319324527",
+        "title": "Programming for Computations - MATLAB/Octave",
+        "subtitle": "A Gentle Introduction to Numerical Simulations with MATLAB/Octave",
+        "authors": "Svein Linge, Hans Petter Langtangen",
+        "image": "https://www.dbooks.org/img/books/3319324527s.jpg",
+        "url": "https://www.dbooks.org/programming-for-computations-matlaboctave-3319324527/",
+        "price": "14.99"
+    },
+    {
+        "id": "3319625330",
+        "title": "Elements of Robotics",
+        "subtitle": "",
+        "authors": "Mordechai Ben-Ari, Francesco Mondada",
+        "image": "https://www.dbooks.org/img/books/3319625330s.jpg",
+        "url": "https://www.dbooks.org/elements-of-robotics-3319625330/",
+        "price": "12.99"
+    },
+    {
+        "id": "1491911867",
+        "title": "What Is Data Science?",
+        "subtitle": "The future belongs to the companies  and people that turn data into products",
+        "authors": "Mike Loukides",
+        "image": "https://www.dbooks.org/img/books/1491911867s.jpg",
+        "url": "https://www.dbooks.org/what-is-data-science-1491911867/",
+        "price": "24.99"
+    },
+    {
+        "id": "149194529X",
+        "title": "Lightweight Systems for Realtime Monitoring",
+        "subtitle": "Tools to unlock and understand your business data",
+        "authors": "Sam Newman",
+        "image": "https://www.dbooks.org/img/books/149194529Xs.jpg",
+        "url": "https://www.dbooks.org/lightweight-systems-for-realtime-monitoring-149194529x/",
+        "price": "5.99"
+    },
+    {
+        "id": "1492040207",
+        "title": "Think Complexity",
+        "subtitle": "Complexity Science and Computational Modeling",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1492040207s.jpg",
+        "url": "https://www.dbooks.org/think-complexity-1492040207/",
+        "price": "14.99"
+    },
+    {
+        "id": "1491907339",
+        "title": "Think Stats",
+        "subtitle": "Exploratory Data Analysis",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1491907339s.jpg",
+        "url": "https://www.dbooks.org/think-stats-1491907339/",
+        "price": "8.49"
+    },
+    {
+        "id": "0596529260",
+        "title": "RESTful Web Services",
+        "subtitle": "Web Services for the Real World",
+        "authors": "Leonard Richardson, Sam Ruby",
+        "image": "https://www.dbooks.org/img/books/0596529260s.jpg",
+        "url": "https://www.dbooks.org/restful-web-services-0596529260/",
+        "price": "12.99"
+    },
+    {
+        "id": "1201",
+        "title": "Fundamentals of C++ Programming",
+        "subtitle": "",
+        "authors": "Richard L. Halterman",
+        "image": "https://www.dbooks.org/img/books/1201s.jpg",
+        "url": "https://www.dbooks.org/fundamentals-of-c-programming-1201/",
+        "price": "12.99"
+    },
+    {
+        "id": "1251",
+        "title": "Raspberry Pi Projects Book",
+        "subtitle": "Volume 5",
+        "authors": "Wes Archer, David Crookes, PJ Evans, Gareth Halfacree, Rosie Hattersley, Nicola King, Ben Nuttall, Marc Scott, Danny Staple, Mark Vanstone",
+        "image": "https://www.dbooks.org/img/books/1251s.jpg",
+        "url": "https://www.dbooks.org/raspberry-pi-projects-book-1251/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319688375",
+        "title": "Essentials of Business Analytics",
+        "subtitle": "An Introduction to the Methodology and its Applications",
+        "authors": "Bhimasankaram Pochiraju, Sridhar Seshadri",
+        "image": "https://www.dbooks.org/img/books/3319688375s.jpg",
+        "url": "https://www.dbooks.org/essentials-of-business-analytics-3319688375/",
+        "price": "19.99"
+    },
+    {
+        "id": "3319578839",
+        "title": "Eye Tracking Methodology",
+        "subtitle": "Theory and Practice",
+        "authors": "Andrew T. Duchowski",
+        "image": "https://www.dbooks.org/img/books/3319578839s.jpg",
+        "url": "https://www.dbooks.org/eye-tracking-methodology-3319578839/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319911554",
+        "title": "Analysis for Computer Scientists",
+        "subtitle": "Foundations, Methods, and Algorithms",
+        "authors": "Michael Oberguggenberger, Alexander Ostermann",
+        "image": "https://www.dbooks.org/img/books/3319911554s.jpg",
+        "url": "https://www.dbooks.org/analysis-for-computer-scientists-3319911554/",
+        "price": "29.99"
+    },
+    {
+        "id": "1437",
+        "title": "TensorFlow Roadmap",
+        "subtitle": "Mastering the TensorFlow by knowing where to start",
+        "authors": "Amirsina Torfi",
+        "image": "https://www.dbooks.org/img/books/1437s.jpg",
+        "url": "https://www.dbooks.org/tensorflow-roadmap-1437/",
+        "price": "14.99"
+    },
+    {
+        "id": "1098114566",
+        "title": "A Case Study in Community-Driven Software Adoption",
+        "subtitle": "How Google SRE Changed Its Behavior Without Changing Its Culture",
+        "authors": "Richard Bondi",
+        "image": "https://www.dbooks.org/img/books/1098114566s.jpg",
+        "url": "https://www.dbooks.org/a-case-study-in-community-driven-software-adoption-1098114566/",
+        "price": "8.49"
+    },
+    {
+        "id": "1531",
+        "title": "MongoDB Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1531s.jpg",
+        "url": "https://www.dbooks.org/mongodb-notes-for-professionals-1531/",
+        "price": "8.49"
+    },
+    {
+        "id": "1537",
+        "title": "SAT/SMT by Example",
+        "subtitle": "",
+        "authors": "Dennis Yurichev",
+        "image": "https://www.dbooks.org/img/books/1537s.jpg",
+        "url": "https://www.dbooks.org/satsmt-by-example-1537/",
+        "price": "19.99"
+    },
+    {
+        "id": "1564",
+        "title": "Keras Succinctly",
+        "subtitle": "",
+        "authors": "James McCaffrey",
+        "image": "https://www.dbooks.org/img/books/1564s.jpg",
+        "url": "https://www.dbooks.org/keras-succinctly-1564/",
+        "price": "29.99"
+    },
+    {
+        "id": "1583",
+        "title": "Introduction to CNTK Succinctly",
+        "subtitle": "",
+        "authors": "James McCaffrey",
+        "image": "https://www.dbooks.org/img/books/1583s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-cntk-succinctly-1583/",
+        "price": "6.49"
+    },
+    {
+        "id": "1588",
+        "title": "Docker for Developers",
+        "subtitle": "",
+        "authors": "Rafael Gomes",
+        "image": "https://www.dbooks.org/img/books/1588s.jpg",
+        "url": "https://www.dbooks.org/docker-for-developers-1588/",
+        "price": "7.99"
+    },
+    {
+        "id": "303031846X",
+        "title": "Computational Cognitive Modeling and Linguistic Theory",
+        "subtitle": "",
+        "authors": "Adrian Brasoveanu, Jakub Dotlačil",
+        "image": "https://www.dbooks.org/img/books/303031846Xs.jpg",
+        "url": "https://www.dbooks.org/computational-cognitive-modeling-and-linguistic-theory-303031846x/",
+        "price": "14.99"
+    },
+    {
+        "id": "1942341091",
+        "title": "Introduction to the Modeling and Analysis of Complex Systems",
+        "subtitle": "",
+        "authors": "Hiroki Sayama",
+        "image": "https://www.dbooks.org/img/books/1942341091s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems-1942341091/",
+        "price": "6.49"
+    },
+    {
+        "id": "5605861198",
+        "title": "Classical Object-Oriented Programming with ECMAScript",
+        "subtitle": "",
+        "authors": "Mike Gerwitz",
+        "image": "https://www.dbooks.org/img/books/5605861198s.jpg",
+        "url": "https://www.dbooks.org/classical-object-oriented-programming-with-ecmascript-5605861198/",
+        "price": "24.99"
+    },
+    {
+        "id": "5605980453",
+        "title": "Learning MongoDB",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605980453s.jpg",
+        "url": "https://www.dbooks.org/learning-mongodb-5605980453/",
+        "price": "7.99"
+    },
+    {
+        "id": "5606033328",
+        "title": "Learning Regular Expressions",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606033328s.jpg",
+        "url": "https://www.dbooks.org/learning-regular-expressions-5606033328/",
+        "price": "8.49"
+    },
+    {
+        "id": "1105559297",
+        "title": "Applied Discrete Structures",
+        "subtitle": "",
+        "authors": "Al Doerr, Ken Levasseur",
+        "image": "https://www.dbooks.org/img/books/1105559297s.jpg",
+        "url": "https://www.dbooks.org/applied-discrete-structures-1105559297/",
+        "price": "12.99"
+    },
+    {
+        "id": "1492078565",
+        "title": "NGINX Unit Cookbook",
+        "subtitle": "Recipes for Using a Versatile Open Source Server",
+        "authors": "Derek DeJonghe",
+        "image": "https://www.dbooks.org/img/books/1492078565s.jpg",
+        "url": "https://www.dbooks.org/nginx-unit-cookbook-1492078565/",
+        "price": "12.99"
+    },
+    {
+        "id": "3030479943",
+        "title": "Leveraging Data Science for Global Health",
+        "subtitle": "",
+        "authors": "Leo Anthony Celi, Maimuna S. Majumder, Patricia Ordóñez, Juan Sebastian Osorio, Kenneth E. Paik, Melek Somai",
+        "image": "https://www.dbooks.org/img/books/3030479943s.jpg",
+        "url": "https://www.dbooks.org/leveraging-data-science-for-global-health-3030479943/",
+        "price": "7.99"
+    },
+    {
+        "id": "5614772998",
+        "title": "Problem Solving with Algorithms and Data Structures",
+        "subtitle": "",
+        "authors": "Brad Miller, David Ranum",
+        "image": "https://www.dbooks.org/img/books/5614772998s.jpg",
+        "url": "https://www.dbooks.org/problem-solving-with-algorithms-and-data-structures-5614772998/",
+        "price": "5.99"
+    },
+    {
+        "id": "1912047888",
+        "title": "The Official Raspberry Pi Handbook 2021",
+        "subtitle": "",
+        "authors": "David Crookes, PJ Evans, Gareth Halfacree, Rosie Hattersley, Nicola King, Simon Monk, Mark Vanstone",
+        "image": "https://www.dbooks.org/img/books/1912047888s.jpg",
+        "url": "https://www.dbooks.org/the-official-raspberry-pi-handbook-2021-1912047888/",
+        "price": "24.99"
+    },
+    {
+        "id": "1912047861",
+        "title": "Get Started with MicroPython on Raspberry Pi Pico",
+        "subtitle": "",
+        "authors": "Gareth Halfacree, Ben Everard",
+        "image": "https://www.dbooks.org/img/books/1912047861s.jpg",
+        "url": "https://www.dbooks.org/get-started-with-micropython-on-raspberry-pi-pico-1912047861/",
+        "price": "24.99"
+    },
+    {
+        "id": "5629144833",
+        "title": "Think OCaml",
+        "subtitle": "How to Think Like a (Functional) Programmer",
+        "authors": "Allen Downey, Nicholas Monje",
+        "image": "https://www.dbooks.org/img/books/5629144833s.jpg",
+        "url": "https://www.dbooks.org/think-ocaml-5629144833/",
+        "price": "8.49"
+    },
+    {
+        "id": "5629146778",
+        "title": "Just Enough R",
+        "subtitle": "Learn Data Analysis with R in a Day",
+        "authors": "Sivakumaran Raman",
+        "image": "https://www.dbooks.org/img/books/5629146778s.jpg",
+        "url": "https://www.dbooks.org/just-enough-r-5629146778/",
+        "price": "24.99"
+    },
+    {
+        "id": "5635347913",
+        "title": "The Official Raspberry Pi Handbook 2022",
+        "subtitle": "",
+        "authors": "Wes Archer, David Crookes, PJ Evans, Gareth Halfacree, Rosie Hattersley, Phil King, Nicola King, KG Orphanides",
+        "image": "https://www.dbooks.org/img/books/5635347913s.jpg",
+        "url": "https://www.dbooks.org/the-official-raspberry-pi-handbook-2022-5635347913/",
+        "price": "19.99"
+    },
+    {
+        "id": "138775615X",
+        "title": "The Little ASP.NET Core Book",
+        "subtitle": "",
+        "authors": "Nate Barbettini",
+        "image": "https://www.dbooks.org/img/books/138775615Xs.jpg",
+        "url": "https://www.dbooks.org/the-little-aspnet-core-book-138775615x/",
+        "price": "29.99"
+    },
+    {
+        "id": "5650385693",
+        "title": "Deploying NGINX as an API Gateway",
+        "subtitle": "",
+        "authors": "Liam Crilly",
+        "image": "https://www.dbooks.org/img/books/5650385693s.jpg",
+        "url": "https://www.dbooks.org/deploying-nginx-as-an-api-gateway-5650385693/",
+        "price": "14.99"
+    },
+    {
+        "id": "0983159238",
+        "title": "Debugging with GDB",
+        "subtitle": "The GNU Source-Level Debugger",
+        "authors": "Richard Stallman, Roland Pesch, Stan Shebs",
+        "image": "https://www.dbooks.org/img/books/0983159238s.jpg",
+        "url": "https://www.dbooks.org/debugging-with-gdb-0983159238/",
+        "price": "7.99"
+    },
+    {
+        "id": "5655276738",
+        "title": "Beej&#039;s Guide to C Programming",
+        "subtitle": "",
+        "authors": "Brian &quot;Beej Jorgensen&quot; Hall",
+        "image": "https://www.dbooks.org/img/books/5655276738s.jpg",
+        "url": "https://www.dbooks.org/beejs-guide-to-c-programming-5655276738/",
+        "price": "24.99"
+    },
+    {
+        "id": "5656235487",
+        "title": "HackSpace Magazine: Issue 56",
+        "subtitle": "July 2022",
+        "authors": "HackSpace Team",
+        "image": "https://www.dbooks.org/img/books/5656235487s.jpg",
+        "url": "https://www.dbooks.org/hackspace-magazine-issue-56-5656235487/",
+        "price": "6.49"
+    },
+    {
+        "id": "5658402714",
+        "title": "HackSpace Magazine: Issue 57",
+        "subtitle": "August 2022",
+        "authors": "HackSpace Team",
+        "image": "https://www.dbooks.org/img/books/5658402714s.jpg",
+        "url": "https://www.dbooks.org/hackspace-magazine-issue-57-5658402714/",
+        "price": "24.99"
+    },
+    {
+        "id": "1509300597",
+        "title": "Azure Web Apps for Developers",
+        "subtitle": "Microsoft Azure Essentials",
+        "authors": "Rick Rainey",
+        "image": "https://www.dbooks.org/img/books/1509300597s.jpg",
+        "url": "https://www.dbooks.org/azure-web-apps-for-developers-1509300597/",
+        "price": "7.99"
+    },
+    {
+        "id": "5664978964",
+        "title": "The Big Book of Machine Learning Use Cases",
+        "subtitle": "Your complete how-to guide to putting ML to work - plus code samples and notebooks",
+        "authors": "Ricardo Portilla, Brenner Heintz, Denny Lee",
+        "image": "https://www.dbooks.org/img/books/5664978964s.jpg",
+        "url": "https://www.dbooks.org/the-big-book-of-machine-learning-use-cases-5664978964/",
+        "price": "7.99"
+    },
+    {
+        "id": "5670938239",
+        "title": "The Julia Express",
+        "subtitle": "",
+        "authors": "Bogumił Kamiński",
+        "image": "https://www.dbooks.org/img/books/5670938239s.jpg",
+        "url": "https://www.dbooks.org/the-julia-express-5670938239/",
+        "price": "7.99"
+    },
+    {
+        "id": "1492036811",
+        "title": "Container Networking",
+        "subtitle": "From Docker to Kubernetes",
+        "authors": "Michael Hausenblas",
+        "image": "https://www.dbooks.org/img/books/1492036811s.jpg",
+        "url": "https://www.dbooks.org/container-networking-1492036811/",
+        "price": "5.99"
+    },
+    {
+        "id": "5676984863",
+        "title": "HackSpace Magazine: Issue 63",
+        "subtitle": "February 2023",
+        "authors": "HackSpace Team",
+        "image": "https://www.dbooks.org/img/books/5676984863s.jpg",
+        "url": "https://www.dbooks.org/hackspace-magazine-issue-63-5676984863/",
+        "price": "24.99"
+    },
+    {
+        "id": "9463666656",
+        "title": "Numerical Methods for Ordinary Differential Equations",
+        "subtitle": "",
+        "authors": "Kees Vuik, Fred Vermolen, Martin van Gijzen",
+        "image": "https://www.dbooks.org/img/books/9463666656s.jpg",
+        "url": "https://www.dbooks.org/numerical-methods-for-ordinary-differential-equations-9463666656/",
+        "price": "10.99"
+    },
+    {
+        "id": "191204742X",
+        "title": "The Official Raspberry Pi Handbook 2023",
+        "subtitle": "",
+        "authors": "David Crookes, PJ Evans, Rosie Hattersley, Phil King, Nicola King, KG Orphanides, Nik Rawlinson, Mark Vanstone",
+        "image": "https://www.dbooks.org/img/books/191204742Xs.jpg",
+        "url": "https://www.dbooks.org/the-official-raspberry-pi-handbook-2023-191204742x/",
+        "price": "14.99"
+    },
+    {
+        "id": "5685527822",
+        "title": "HackSpace Magazine: Issue 65",
+        "subtitle": "April 2023",
+        "authors": "HackSpace Team",
+        "image": "https://www.dbooks.org/img/books/5685527822s.jpg",
+        "url": "https://www.dbooks.org/hackspace-magazine-issue-65-5685527822/",
+        "price": "19.99"
+    },
+    {
+        "id": "5650981480",
+        "title": "JavaScript: The First 20 Years",
+        "subtitle": "",
+        "authors": "Allen Wirfs-Brock, Brendan Eich",
+        "image": "https://www.dbooks.org/img/books/5650981480s.jpg",
+        "url": "https://www.dbooks.org/javascript-the-first-20-years-5650981480/",
+        "price": "8.49"
+    },
+    {
+        "id": "1593279507",
+        "title": "Eloquent JavaScript",
+        "subtitle": "A Modern Introduction to Programming",
+        "authors": "Marijn Haverbeke",
+        "image": "https://www.dbooks.org/img/books/1593279507s.jpg",
+        "url": "https://www.dbooks.org/eloquent-javascript-1593279507/",
+        "price": "14.99"
+    },
+    {
+        "id": "1513",
+        "title": "JavaScript Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1513s.jpg",
+        "url": "https://www.dbooks.org/javascript-notes-for-professionals-1513/",
+        "price": "29.99"
+    },
+    {
+        "id": "5605981043",
+        "title": "Learning JavaScript",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605981043s.jpg",
+        "url": "https://www.dbooks.org/learning-javascript-5605981043/",
+        "price": "10.99"
+    },
+    {
+        "id": "5613992052",
+        "title": "The JavaScript Beginner&#039;s Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5613992052s.jpg",
+        "url": "https://www.dbooks.org/the-javascript-beginners-handbook-5613992052/",
+        "price": "10.99"
+    },
+    {
+        "id": "0764533428",
+        "title": "JavaScript Bible",
+        "subtitle": "",
+        "authors": "Danny Goodman",
+        "image": "https://www.dbooks.org/img/books/0764533428s.jpg",
+        "url": "https://www.dbooks.org/javascript-bible-0764533428/",
+        "price": "14.99"
+    },
+    {
+        "id": "1430261587",
+        "title": "Learn BlackBerry 10 App Development",
+        "subtitle": "A Cascades-Driven Approach",
+        "authors": "Anwar Ludin",
+        "image": "https://www.dbooks.org/img/books/1430261587s.jpg",
+        "url": "https://www.dbooks.org/learn-blackberry-10-app-development-1430261587/",
+        "price": "5.99"
+    },
+    {
+        "id": "1617294179",
+        "title": "Designing Scalable JavaScript Applications",
+        "subtitle": "",
+        "authors": "Emmit Scott",
+        "image": "https://www.dbooks.org/img/books/1617294179s.jpg",
+        "url": "https://www.dbooks.org/designing-scalable-javascript-applications-1617294179/",
+        "price": "12.99"
+    },
+    {
+        "id": "1234",
+        "title": "Java Web Scraping Handbook",
+        "subtitle": "Learn advanced Web Scraping techniques",
+        "authors": "Kevin Sahin",
+        "image": "https://www.dbooks.org/img/books/1234s.jpg",
+        "url": "https://www.dbooks.org/java-web-scraping-handbook-1234/",
+        "price": "8.49"
+    },
+    {
+        "id": "1236",
+        "title": "Programming Windows Store Apps with HTML, CSS, and JavaScript",
+        "subtitle": "",
+        "authors": "Kraig Brockschmidt",
+        "image": "https://www.dbooks.org/img/books/1236s.jpg",
+        "url": "https://www.dbooks.org/programming-windows-store-apps-with-html-css-and-javascript-1236/",
+        "price": "10.99"
+    },
+    {
+        "id": "1493",
+        "title": "React Succinctly",
+        "subtitle": "",
+        "authors": "Samer Buna",
+        "image": "https://www.dbooks.org/img/books/1493s.jpg",
+        "url": "https://www.dbooks.org/react-succinctly-1493/",
+        "price": "24.99"
+    },
+    {
+        "id": "1500",
+        "title": "The JavaScript Way",
+        "subtitle": "A gentle introduction to an essential language",
+        "authors": "Baptiste Pesquet",
+        "image": "https://www.dbooks.org/img/books/1500s.jpg",
+        "url": "https://www.dbooks.org/the-javascript-way-1500/",
+        "price": "19.99"
+    },
+    {
+        "id": "5592400703",
+        "title": "JavaScript RegExp",
+        "subtitle": "An example based guide",
+        "authors": "Sundeep Agarwal",
+        "image": "https://www.dbooks.org/img/books/5592400703s.jpg",
+        "url": "https://www.dbooks.org/javascript-regexp-5592400703/",
+        "price": "8.49"
+    },
+    {
+        "id": "5605600340",
+        "title": "JavaScript Allongé",
+        "subtitle": "Programming from Functions to Classes in ECMAScript 2015",
+        "authors": "Reginald Braithwaite",
+        "image": "https://www.dbooks.org/img/books/5605600340s.jpg",
+        "url": "https://www.dbooks.org/javascript-allong-5605600340/",
+        "price": "8.49"
+    },
+    {
+        "id": "0596805780",
+        "title": "Building iPhone Apps with HTML, CSS, and JavaScript",
+        "subtitle": "Making App Store Apps Without Objective-C or Cocoa",
+        "authors": "Jonathan Stark",
+        "image": "https://www.dbooks.org/img/books/0596805780s.jpg",
+        "url": "https://www.dbooks.org/building-iphone-apps-with-html-css-and-javascript-0596805780/",
+        "price": "5.99"
+    },
+    {
+        "id": "1449328253",
+        "title": "Developing Backbone.js Applications",
+        "subtitle": "Building Better JavaScript Applications",
+        "authors": "Addy Osmani",
+        "image": "https://www.dbooks.org/img/books/1449328253s.jpg",
+        "url": "https://www.dbooks.org/developing-backbonejs-applications-1449328253/",
+        "price": "8.49"
+    },
+    {
+        "id": "0999773097",
+        "title": "Understanding the DOM",
+        "subtitle": "Document Object Model",
+        "authors": "Tania Rascia",
+        "image": "https://www.dbooks.org/img/books/0999773097s.jpg",
+        "url": "https://www.dbooks.org/understanding-the-dom-0999773097/",
+        "price": "6.49"
+    },
+    {
+        "id": "5651946539",
+        "title": "The Svelte Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5651946539s.jpg",
+        "url": "https://www.dbooks.org/the-svelte-handbook-5651946539/",
+        "price": "10.99"
+    },
+    {
+        "id": "1642002143",
+        "title": "Deno Succinctly",
+        "subtitle": "",
+        "authors": "Mark Lewin",
+        "image": "https://www.dbooks.org/img/books/1642002143s.jpg",
+        "url": "https://www.dbooks.org/deno-succinctly-1642002143/",
+        "price": "5.99"
+    },
+    {
+        "id": "1229",
+        "title": "D3 Tips and Tricks v3.x",
+        "subtitle": "Interactive Data Visualization in a Web Browser",
+        "authors": "Malcolm Maclean",
+        "image": "https://www.dbooks.org/img/books/1229s.jpg",
+        "url": "https://www.dbooks.org/d3-tips-and-tricks-v3x-1229/",
+        "price": "5.99"
+    },
+    {
+        "id": "1256",
+        "title": "25 Secrets for Faster ASP.NET Applications",
+        "subtitle": "",
+        "authors": "Jeffrey Richter, John Robbins, David Conlin, Shmuel Englard, Ryan Riley, Chris Allen, Robert Haken, Mitchel Sellers, Niall Merrigan, Chris Hurley, Raghavendra, Matt Lee, Jp Toto, Michael Williamson, Tiago Pascoal",
+        "image": "https://www.dbooks.org/img/books/1256s.jpg",
+        "url": "https://www.dbooks.org/25-secrets-for-faster-aspnet-applications-1256/",
+        "price": "12.99"
+    },
+    {
+        "id": "1440",
+        "title": "CSS Animation 101",
+        "subtitle": "Become a CSS animation expert with a few minutes each day",
+        "authors": "Donovan Hutchinson",
+        "image": "https://www.dbooks.org/img/books/1440s.jpg",
+        "url": "https://www.dbooks.org/css-animation-101-1440/",
+        "price": "29.99"
+    },
+    {
+        "id": "1450",
+        "title": "HTML5 Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1450s.jpg",
+        "url": "https://www.dbooks.org/html5-notes-for-professionals-1450/",
+        "price": "29.99"
+    },
+    {
+        "id": "1454",
+        "title": "jQuery Succinctly",
+        "subtitle": "",
+        "authors": "Cody Lindley",
+        "image": "https://www.dbooks.org/img/books/1454s.jpg",
+        "url": "https://www.dbooks.org/jquery-succinctly-1454/",
+        "price": "6.49"
+    },
+    {
+        "id": "1492058564",
+        "title": "Modern Web Development on the JAMstack",
+        "subtitle": "Modern Techniques for Ultra Fast Sites and Web Applications",
+        "authors": "Mathias Biilmann, Phil Hawksworth",
+        "image": "https://www.dbooks.org/img/books/1492058564s.jpg",
+        "url": "https://www.dbooks.org/modern-web-development-on-the-jamstack-1492058564/",
+        "price": "12.99"
+    },
+    {
+        "id": "1491",
+        "title": "Neural Networks with JavaScript Succinctly",
+        "subtitle": "",
+        "authors": "James McCaffrey",
+        "image": "https://www.dbooks.org/img/books/1491s.jpg",
+        "url": "https://www.dbooks.org/neural-networks-with-javascript-succinctly-1491/",
+        "price": "19.99"
+    },
+    {
+        "id": "1556",
+        "title": "Angular Succinctly",
+        "subtitle": "",
+        "authors": "Joseph D. Booth",
+        "image": "https://www.dbooks.org/img/books/1556s.jpg",
+        "url": "https://www.dbooks.org/angular-succinctly-1556/",
+        "price": "19.99"
+    },
+    {
+        "id": "1576",
+        "title": "Google Maps API Succinctly",
+        "subtitle": "",
+        "authors": "Mark Lewin",
+        "image": "https://www.dbooks.org/img/books/1576s.jpg",
+        "url": "https://www.dbooks.org/google-maps-api-succinctly-1576/",
+        "price": "8.49"
+    },
+    {
+        "id": "5591525558",
+        "title": "Networking with the Micro:bit",
+        "subtitle": "",
+        "authors": "Cigdem Sengul, Anthony Kirby",
+        "image": "https://www.dbooks.org/img/books/5591525558s.jpg",
+        "url": "https://www.dbooks.org/networking-with-the-microbit-5591525558/",
+        "price": "5.99"
+    },
+    {
+        "id": "5591602040",
+        "title": "Building Games for Firefox OS",
+        "subtitle": "A quick guide about creating casual 2D games with HTML5",
+        "authors": "Andre Garzia",
+        "image": "https://www.dbooks.org/img/books/5591602040s.jpg",
+        "url": "https://www.dbooks.org/building-games-for-firefox-os-5591602040/",
+        "price": "8.49"
+    },
+    {
+        "id": "5591709940",
+        "title": "ember 101",
+        "subtitle": "Learn Ember.js with ember-cli",
+        "authors": "Adolfo Builes",
+        "image": "https://www.dbooks.org/img/books/5591709940s.jpg",
+        "url": "https://www.dbooks.org/ember-101-5591709940/",
+        "price": "24.99"
+    },
+    {
+        "id": "0472125001",
+        "title": "Rhetorical Code Studies",
+        "subtitle": "Discovering Arguments in and around Code",
+        "authors": "Kevin Brock",
+        "image": "https://www.dbooks.org/img/books/0472125001s.jpg",
+        "url": "https://www.dbooks.org/rhetorical-code-studies-0472125001/",
+        "price": "5.99"
+    },
+    {
+        "id": "5592544360",
+        "title": "TypeScript Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5592544360s.jpg",
+        "url": "https://www.dbooks.org/typescript-notes-for-professionals-5592544360/",
+        "price": "8.49"
+    },
+    {
+        "id": "5592640131",
+        "title": "Bing Maps V8 Succinctly",
+        "subtitle": "",
+        "authors": "James McCaffrey",
+        "image": "https://www.dbooks.org/img/books/5592640131s.jpg",
+        "url": "https://www.dbooks.org/bing-maps-v8-succinctly-5592640131/",
+        "price": "14.99"
+    },
+    {
+        "id": "0989722651",
+        "title": "The Missing Link",
+        "subtitle": "An Introduction to Web Development and Programming",
+        "authors": "Michael Mendez",
+        "image": "https://www.dbooks.org/img/books/0989722651s.jpg",
+        "url": "https://www.dbooks.org/the-missing-link-0989722651/",
+        "price": "6.49"
+    },
+    {
+        "id": "1642000566",
+        "title": "Real-Time ASP.NET Core 3 Apps with SignalR Succinctly",
+        "subtitle": "",
+        "authors": "Dirk Strauss",
+        "image": "https://www.dbooks.org/img/books/1642000566s.jpg",
+        "url": "https://www.dbooks.org/real-time-aspnet-core-3-apps-with-signalr-succinctly-1642000566/",
+        "price": "5.99"
+    },
+    {
+        "id": "5605980240",
+        "title": "Learning Node.js",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605980240s.jpg",
+        "url": "https://www.dbooks.org/learning-nodejs-5605980240/",
+        "price": "7.99"
+    },
+    {
+        "id": "5606038565",
+        "title": "Learning Twitter Bootstrap",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606038565s.jpg",
+        "url": "https://www.dbooks.org/learning-twitter-bootstrap-5606038565/",
+        "price": "29.99"
+    },
+    {
+        "id": "1735831727",
+        "title": "How To Code in Node.js",
+        "subtitle": "",
+        "authors": "David Landup, Marcus Sanatan",
+        "image": "https://www.dbooks.org/img/books/1735831727s.jpg",
+        "url": "https://www.dbooks.org/how-to-code-in-nodejs-1735831727/",
+        "price": "24.99"
+    },
+    {
+        "id": "5614276519",
+        "title": "The Node.js Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5614276519s.jpg",
+        "url": "https://www.dbooks.org/the-nodejs-handbook-5614276519/",
+        "price": "12.99"
+    },
+    {
+        "id": "5614607515",
+        "title": "The React Beginner&#039;s Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5614607515s.jpg",
+        "url": "https://www.dbooks.org/the-react-beginners-handbook-5614607515/",
+        "price": "8.49"
+    },
+    {
+        "id": "5616057595",
+        "title": "JavaScript from ES5 to ESNext",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5616057595s.jpg",
+        "url": "https://www.dbooks.org/javascript-from-es5-to-esnext-5616057595/",
+        "price": "8.49"
+    },
+    {
+        "id": "5616575763",
+        "title": "The Deno Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5616575763s.jpg",
+        "url": "https://www.dbooks.org/the-deno-handbook-5616575763/",
+        "price": "24.99"
+    },
+    {
+        "id": "5629057358",
+        "title": "Learning Vue.js",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5629057358s.jpg",
+        "url": "https://www.dbooks.org/learning-vuejs-5629057358/",
+        "price": "14.99"
+    },
+    {
+        "id": "5629151494",
+        "title": "Front-end Developer Handbook",
+        "subtitle": "",
+        "authors": "Cody Lindley",
+        "image": "https://www.dbooks.org/img/books/5629151494s.jpg",
+        "url": "https://www.dbooks.org/front-end-developer-handbook-5629151494/",
+        "price": "12.99"
+    },
+    {
+        "id": "5635532311",
+        "title": "Blazor, A Beginners Guide",
+        "subtitle": "A quick-start guide to productivity with Blazor",
+        "authors": "Ed Charbeneau",
+        "image": "https://www.dbooks.org/img/books/5635532311s.jpg",
+        "url": "https://www.dbooks.org/blazor-a-beginners-guide-5635532311/",
+        "price": "10.99"
+    },
+    {
+        "id": "5635532714",
+        "title": "Blazor for ASP NET Web Forms Developers",
+        "subtitle": "",
+        "authors": "Daniel Roth, Jeff Fritz, Taylor Southwick",
+        "image": "https://www.dbooks.org/img/books/5635532714s.jpg",
+        "url": "https://www.dbooks.org/blazor-for-asp-net-web-forms-developers-5635532714/",
+        "price": "7.99"
+    },
+    {
+        "id": "1430224215",
+        "title": "Exploring Lift",
+        "subtitle": "",
+        "authors": "Derek Chen-Becker, Marius Danciu, Tyler Weir",
+        "image": "https://www.dbooks.org/img/books/1430224215s.jpg",
+        "url": "https://www.dbooks.org/exploring-lift-1430224215/",
+        "price": "10.99"
+    },
+    {
+        "id": "1642002259",
+        "title": "Nuxt.js Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1642002259s.jpg",
+        "url": "https://www.dbooks.org/nuxtjs-succinctly-1642002259/",
+        "price": "14.99"
+    },
+    {
+        "id": "1642002305",
+        "title": "Svelte Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1642002305s.jpg",
+        "url": "https://www.dbooks.org/svelte-succinctly-1642002305/",
+        "price": "8.49"
+    },
+    {
+        "id": "1484249321",
+        "title": "Programming Persistent Memory",
+        "subtitle": "A Comprehensive Guide for Developers",
+        "authors": "Steve Scargall",
+        "image": "https://www.dbooks.org/img/books/1484249321s.jpg",
+        "url": "https://www.dbooks.org/programming-persistent-memory-1484249321/",
+        "price": "8.49"
+    },
+    {
+        "id": "1491937580",
+        "title": "Getting Started with InnerSource",
+        "subtitle": "Keys to collaboration and productivity inside your company",
+        "authors": "Andy Oram",
+        "image": "https://www.dbooks.org/img/books/1491937580s.jpg",
+        "url": "https://www.dbooks.org/getting-started-with-innersource-1491937580/",
+        "price": "19.99"
+    },
+    {
+        "id": "1491950226",
+        "title": "Web Page Size, Speed, and Performance",
+        "subtitle": "",
+        "authors": "Terrence Dorsey",
+        "image": "https://www.dbooks.org/img/books/1491950226s.jpg",
+        "url": "https://www.dbooks.org/web-page-size-speed-and-performance-1491950226/",
+        "price": "24.99"
+    },
+    {
+        "id": "1617294985",
+        "title": "Agile Development for Serverless Platforms",
+        "subtitle": "",
+        "authors": "Danilo Poccia",
+        "image": "https://www.dbooks.org/img/books/1617294985s.jpg",
+        "url": "https://www.dbooks.org/agile-development-for-serverless-platforms-1617294985/",
+        "price": "10.99"
+    },
+    {
+        "id": "1509304134",
+        "title": "Microsoft Platform and Tools for Mobile App Development",
+        "subtitle": "",
+        "authors": "Cesar de la Torre, Simon Calvert",
+        "image": "https://www.dbooks.org/img/books/1509304134s.jpg",
+        "url": "https://www.dbooks.org/microsoft-platform-and-tools-for-mobile-app-development-1509304134/",
+        "price": "8.49"
+    },
+    {
+        "id": "1462",
+        "title": "AngularJS Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1462s.jpg",
+        "url": "https://www.dbooks.org/angularjs-notes-for-professionals-1462/",
+        "price": "5.99"
+    },
+    {
+        "id": "1471",
+        "title": "Ionic 4 Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1471s.jpg",
+        "url": "https://www.dbooks.org/ionic-4-succinctly-1471/",
+        "price": "8.49"
+    },
+    {
+        "id": "1496",
+        "title": "Java Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1496s.jpg",
+        "url": "https://www.dbooks.org/java-notes-for-professionals-1496/",
+        "price": "8.49"
+    },
+    {
+        "id": "1499",
+        "title": "Laravel 5 Official Documentation",
+        "subtitle": "",
+        "authors": "Gary Blankenship",
+        "image": "https://www.dbooks.org/img/books/1499s.jpg",
+        "url": "https://www.dbooks.org/laravel-5-official-documentation-1499/",
+        "price": "7.99"
+    },
+    {
+        "id": "1526",
+        "title": "Professor Frisby&#039;s Mostly Adequate Guide to Functional Programming",
+        "subtitle": "",
+        "authors": "Brian Lonsdorf",
+        "image": "https://www.dbooks.org/img/books/1526s.jpg",
+        "url": "https://www.dbooks.org/professor-frisbys-mostly-adequate-guide-to-functional-programming-1526/",
+        "price": "6.49"
+    },
+    {
+        "id": "1555",
+        "title": "Node.js Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1555s.jpg",
+        "url": "https://www.dbooks.org/nodejs-notes-for-professionals-1555/",
+        "price": "7.99"
+    },
+    {
+        "id": "1558",
+        "title": "Electron Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1558s.jpg",
+        "url": "https://www.dbooks.org/electron-succinctly-1558/",
+        "price": "24.99"
+    },
+    {
+        "id": "1563",
+        "title": "Twitter Bootstrap 4 Succinctly",
+        "subtitle": "",
+        "authors": "Peter Shaw",
+        "image": "https://www.dbooks.org/img/books/1563s.jpg",
+        "url": "https://www.dbooks.org/twitter-bootstrap-4-succinctly-1563/",
+        "price": "29.99"
+    },
+    {
+        "id": "1579",
+        "title": "W3.CSS Succinctly",
+        "subtitle": "",
+        "authors": "Joseph D. Booth",
+        "image": "https://www.dbooks.org/img/books/1579s.jpg",
+        "url": "https://www.dbooks.org/w3css-succinctly-1579/",
+        "price": "14.99"
+    },
+    {
+        "id": "1582",
+        "title": "Ionic Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1582s.jpg",
+        "url": "https://www.dbooks.org/ionic-succinctly-1582/",
+        "price": "7.99"
+    },
+    {
+        "id": "5591602271",
+        "title": "Quick Guide For Firefox OS App Development",
+        "subtitle": "Creating HTML5 based apps for Firefox OS",
+        "authors": "Andre Garzia",
+        "image": "https://www.dbooks.org/img/books/5591602271s.jpg",
+        "url": "https://www.dbooks.org/quick-guide-for-firefox-os-app-development-5591602271/",
+        "price": "10.99"
+    },
+    {
+        "id": "5591634675",
+        "title": "Force.com Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/5591634675s.jpg",
+        "url": "https://www.dbooks.org/forcecom-succinctly-5591634675/",
+        "price": "6.49"
+    },
+    {
+        "id": "5591647427",
+        "title": "React Native Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591647427s.jpg",
+        "url": "https://www.dbooks.org/react-native-notes-for-professionals-5591647427/",
+        "price": "7.99"
+    },
+    {
+        "id": "5591647562",
+        "title": "React JS Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591647562s.jpg",
+        "url": "https://www.dbooks.org/react-js-notes-for-professionals-5591647562/",
+        "price": "5.99"
+    },
+    {
+        "id": "5591713358",
+        "title": "Smooth CoffeeScript",
+        "subtitle": "Effective CoffeeScript and the Beauty of Functional Programming",
+        "authors": "E. Hoigaard",
+        "image": "https://www.dbooks.org/img/books/5591713358s.jpg",
+        "url": "https://www.dbooks.org/smooth-coffeescript-5591713358/",
+        "price": "29.99"
+    },
+    {
+        "id": "5592219393",
+        "title": "Lisp Hackers",
+        "subtitle": "Interviews with 100x More Productive Programmers",
+        "authors": "Vsevolod Dyomkin",
+        "image": "https://www.dbooks.org/img/books/5592219393s.jpg",
+        "url": "https://www.dbooks.org/lisp-hackers-5592219393/",
+        "price": "29.99"
+    },
+    {
+        "id": "1642002003",
+        "title": "Vue.js Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1642002003s.jpg",
+        "url": "https://www.dbooks.org/vuejs-succinctly-1642002003/",
+        "price": "14.99"
+    },
+    {
+        "id": "5605976849",
+        "title": "Learning React Native",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605976849s.jpg",
+        "url": "https://www.dbooks.org/learning-react-native-5605976849/",
+        "price": "29.99"
+    },
+    {
+        "id": "5605980055",
+        "title": "Learning Java",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605980055s.jpg",
+        "url": "https://www.dbooks.org/learning-java-5605980055/",
+        "price": "10.99"
+    },
+    {
+        "id": "5605980679",
+        "title": "Learning jQuery",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605980679s.jpg",
+        "url": "https://www.dbooks.org/learning-jquery-5605980679/",
+        "price": "5.99"
+    },
+    {
+        "id": "5606032932",
+        "title": "Learning Ruby on Rails",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606032932s.jpg",
+        "url": "https://www.dbooks.org/learning-ruby-on-rails-5606032932/",
+        "price": "24.99"
+    },
+    {
+        "id": "1492053112",
+        "title": "Web Application Security",
+        "subtitle": "Exploitation and Countermeasures for Modern Web Applications",
+        "authors": "Andrew Hoffman",
+        "image": "https://www.dbooks.org/img/books/1492053112s.jpg",
+        "url": "https://www.dbooks.org/web-application-security-1492053112/",
+        "price": "7.99"
+    },
+    {
+        "id": "0999773089",
+        "title": "Rails on Containers",
+        "subtitle": "",
+        "authors": "Kathleen Juell",
+        "image": "https://www.dbooks.org/img/books/0999773089s.jpg",
+        "url": "https://www.dbooks.org/rails-on-containers-0999773089/",
+        "price": "14.99"
+    },
+    {
+        "id": "1735831719",
+        "title": "How To Build a Website With CSS and HTML",
+        "subtitle": "",
+        "authors": "Erin Glass",
+        "image": "https://www.dbooks.org/img/books/1735831719s.jpg",
+        "url": "https://www.dbooks.org/how-to-build-a-website-with-css-and-html-1735831719/",
+        "price": "10.99"
+    },
+    {
+        "id": "5614163492",
+        "title": "The CSS Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5614163492s.jpg",
+        "url": "https://www.dbooks.org/the-css-handbook-5614163492/",
+        "price": "29.99"
+    },
+    {
+        "id": "5614607280",
+        "title": "The Vue.js Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5614607280s.jpg",
+        "url": "https://www.dbooks.org/the-vuejs-handbook-5614607280/",
+        "price": "29.99"
+    },
+    {
+        "id": "1735831743",
+        "title": "How To Code in React.js",
+        "subtitle": "",
+        "authors": "Joe Morgan",
+        "image": "https://www.dbooks.org/img/books/1735831743s.jpg",
+        "url": "https://www.dbooks.org/how-to-code-in-reactjs-1735831743/",
+        "price": "6.49"
+    },
+    {
+        "id": "5635531311",
+        "title": "Architect Modern Web Applications with ASP.NET Core and Azure",
+        "subtitle": "",
+        "authors": "Steve Smith",
+        "image": "https://www.dbooks.org/img/books/5635531311s.jpg",
+        "url": "https://www.dbooks.org/architect-modern-web-applications-with-aspnet-core-and-azure-5635531311/",
+        "price": "5.99"
+    },
+    {
+        "id": "5649257264",
+        "title": "Symfony",
+        "subtitle": "The Best Practices Book",
+        "authors": "Symfony Team",
+        "image": "https://www.dbooks.org/img/books/5649257264s.jpg",
+        "url": "https://www.dbooks.org/symfony-5649257264/",
+        "price": "8.49"
+    },
+    {
+        "id": "5650997110",
+        "title": "Professional Web Accessibility Auditing Made Easy",
+        "subtitle": "Essential Skills for Web Developers, Content Creators, and Designers",
+        "authors": "Digital Education Strategies, The Chang School",
+        "image": "https://www.dbooks.org/img/books/5650997110s.jpg",
+        "url": "https://www.dbooks.org/professional-web-accessibility-auditing-made-easy-5650997110/",
+        "price": "14.99"
+    },
+    {
+        "id": "5651245518",
+        "title": "Creative Scala",
+        "subtitle": "",
+        "authors": "Dave Gurnell, Noel Welsh",
+        "image": "https://www.dbooks.org/img/books/5651245518s.jpg",
+        "url": "https://www.dbooks.org/creative-scala-5651245518/",
+        "price": "7.99"
+    },
+    {
+        "id": "5656492352",
+        "title": "Resilient Web Design",
+        "subtitle": "",
+        "authors": "Jeremy Keith",
+        "image": "https://www.dbooks.org/img/books/5656492352s.jpg",
+        "url": "https://www.dbooks.org/resilient-web-design-5656492352/",
+        "price": "12.99"
+    },
+    {
+        "id": "0999773054",
+        "title": "From Containers to Kubernetes with Node.js",
+        "subtitle": "",
+        "authors": "Kathleen Juell",
+        "image": "https://www.dbooks.org/img/books/0999773054s.jpg",
+        "url": "https://www.dbooks.org/from-containers-to-kubernetes-with-nodejs-0999773054/",
+        "price": "19.99"
+    },
+    {
+        "id": "1735831700",
+        "title": "How To Build a Website with HTML",
+        "subtitle": "",
+        "authors": "Erin Glass",
+        "image": "https://www.dbooks.org/img/books/1735831700s.jpg",
+        "url": "https://www.dbooks.org/how-to-build-a-website-with-html-1735831700/",
+        "price": "6.49"
+    },
+    {
+        "id": "1607854899",
+        "title": "Image Processing for Engineers",
+        "subtitle": "",
+        "authors": "Andrew Yagle, Fawwaz Ulaby",
+        "image": "https://www.dbooks.org/img/books/1607854899s.jpg",
+        "url": "https://www.dbooks.org/image-processing-for-engineers-1607854899/",
+        "price": "14.99"
+    },
+    {
+        "id": "1906434409",
+        "title": ".NET Performance Testing and Optimization",
+        "subtitle": "The Complete Guide",
+        "authors": "Paul Glavich, Chris Farrell",
+        "image": "https://www.dbooks.org/img/books/1906434409s.jpg",
+        "url": "https://www.dbooks.org/net-performance-testing-and-optimization-1906434409/",
+        "price": "29.99"
+    },
+    {
+        "id": "5670939022",
+        "title": "Java Everywhere Again with DukeScript",
+        "subtitle": "JavaOne Hands on Lab 3962",
+        "authors": "Anton Epple",
+        "image": "https://www.dbooks.org/img/books/5670939022s.jpg",
+        "url": "https://www.dbooks.org/java-everywhere-again-with-dukescript-5670939022/",
+        "price": "12.99"
+    },
+    {
+        "id": "5671109701",
+        "title": "Learn Ruby on Rails: Book One",
+        "subtitle": "",
+        "authors": "Daniel Kehoe",
+        "image": "https://www.dbooks.org/img/books/5671109701s.jpg",
+        "url": "https://www.dbooks.org/learn-ruby-on-rails-book-one-5671109701/",
+        "price": "14.99"
+    },
+    {
+        "id": "5671109817",
+        "title": "Learn Ruby on Rails: Book Two",
+        "subtitle": "",
+        "authors": "Daniel Kehoe",
+        "image": "https://www.dbooks.org/img/books/5671109817s.jpg",
+        "url": "https://www.dbooks.org/learn-ruby-on-rails-book-two-5671109817/",
+        "price": "12.99"
+    },
+    {
+        "id": "1492072508",
+        "title": "Think Java",
+        "subtitle": "How to Think Like a Computer Scientist",
+        "authors": "Allen Downey, Chris Mayfield",
+        "image": "https://www.dbooks.org/img/books/1492072508s.jpg",
+        "url": "https://www.dbooks.org/think-java-1492072508/",
+        "price": "19.99"
+    },
+    {
+        "id": "0738442275",
+        "title": "Microservices Best Practices for Java",
+        "subtitle": "",
+        "authors": "Michael Hofmann, Erin Schnabel, Katherine Stanley",
+        "image": "https://www.dbooks.org/img/books/0738442275s.jpg",
+        "url": "https://www.dbooks.org/microservices-best-practices-for-java-0738442275/",
+        "price": "24.99"
+    },
+    {
+        "id": "1491943912",
+        "title": "Modern Java EE Design Patterns",
+        "subtitle": "Building Scalable Architecture for Sustainable Enterprise Development",
+        "authors": "Markus Eisele",
+        "image": "https://www.dbooks.org/img/books/1491943912s.jpg",
+        "url": "https://www.dbooks.org/modern-java-ee-design-patterns-1491943912/",
+        "price": "29.99"
+    },
+    {
+        "id": "5614779084",
+        "title": "The Common Java Cookbook",
+        "subtitle": "",
+        "authors": "Tim O&#039;Brien",
+        "image": "https://www.dbooks.org/img/books/5614779084s.jpg",
+        "url": "https://www.dbooks.org/the-common-java-cookbook-5614779084/",
+        "price": "8.49"
+    },
+    {
+        "id": "0131474340",
+        "title": "Java, Java, Java",
+        "subtitle": "Object-Oriented Problem Solving",
+        "authors": "Ralph Morelli, Ralph Walde",
+        "image": "https://www.dbooks.org/img/books/0131474340s.jpg",
+        "url": "https://www.dbooks.org/java-java-java-0131474340/",
+        "price": "8.49"
+    },
+    {
+        "id": "5635248420",
+        "title": "Building Modern Web Applications With Spring Boot and Vaadin",
+        "subtitle": "A practical introduction to web application development using Java",
+        "authors": "Vaadin Team",
+        "image": "https://www.dbooks.org/img/books/5635248420s.jpg",
+        "url": "https://www.dbooks.org/building-modern-web-applications-with-spring-boot-and-vaadin-5635248420/",
+        "price": "14.99"
+    },
+    {
+        "id": "1930110359",
+        "title": "Java 3D Programming",
+        "subtitle": "A Guide to Key Concepts and Effective Techniques",
+        "authors": "Daniel Selman",
+        "image": "https://www.dbooks.org/img/books/1930110359s.jpg",
+        "url": "https://www.dbooks.org/java-3d-programming-1930110359/",
+        "price": "7.99"
+    },
+    {
+        "id": "1491972394",
+        "title": "Think Data Structures",
+        "subtitle": "Algorithms and Information Retrieval in Java",
+        "authors": "Allen Downey",
+        "image": "https://www.dbooks.org/img/books/1491972394s.jpg",
+        "url": "https://www.dbooks.org/think-data-structures-1491972394/",
+        "price": "29.99"
+    },
+    {
+        "id": "0783442114",
+        "title": "Evolve the Monolith to Microservices with Java and Node",
+        "subtitle": "",
+        "authors": "Sandro De Santis, Luis Florez, Duy V Nguyen, Eduardo Rosa",
+        "image": "https://www.dbooks.org/img/books/0783442114s.jpg",
+        "url": "https://www.dbooks.org/evolve-the-monolith-to-microservices-with-java-and-node-0783442114/",
+        "price": "5.99"
+    },
+    {
+        "id": "5592639343",
+        "title": "Java Succinctly Part 1",
+        "subtitle": "",
+        "authors": "Christopher Rose",
+        "image": "https://www.dbooks.org/img/books/5592639343s.jpg",
+        "url": "https://www.dbooks.org/java-succinctly-part-1-5592639343/",
+        "price": "5.99"
+    },
+    {
+        "id": "5592639500",
+        "title": "Java Succinctly Part 2",
+        "subtitle": "",
+        "authors": "Christopher Rose",
+        "image": "https://www.dbooks.org/img/books/5592639500s.jpg",
+        "url": "https://www.dbooks.org/java-succinctly-part-2-5592639500/",
+        "price": "10.99"
+    },
+    {
+        "id": "5605862318",
+        "title": "Java-Based Real-Time Programming",
+        "subtitle": "",
+        "authors": "Klas Nilsson",
+        "image": "https://www.dbooks.org/img/books/5605862318s.jpg",
+        "url": "https://www.dbooks.org/java-based-real-time-programming-5605862318/",
+        "price": "5.99"
+    },
+    {
+        "id": "0596006101",
+        "title": "Managing Projects with GNU Make",
+        "subtitle": "The Power of GNU Make for Building Anything",
+        "authors": "Robert Mecklenburg",
+        "image": "https://www.dbooks.org/img/books/0596006101s.jpg",
+        "url": "https://www.dbooks.org/managing-projects-with-gnu-make-0596006101/",
+        "price": "24.99"
+    },
+    {
+        "id": "3030175022",
+        "title": "Tools and Algorithms for the Construction and Analysis of Systems",
+        "subtitle": "25 Years of TACAS: TOOLympics, Held as Part of ETAPS 2019, Prague, Czech Republic, April 6–11, 2019, Proceedings, Part III",
+        "authors": "Dirk Beyer, Marieke Huisman, Fabrice Kordon, Bernhard Steffen",
+        "image": "https://www.dbooks.org/img/books/3030175022s.jpg",
+        "url": "https://www.dbooks.org/tools-and-algorithms-for-the-construction-and-analysis-of-systems-3030175022/",
+        "price": "24.99"
+    },
+    {
+        "id": "1453",
+        "title": "Android Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1453s.jpg",
+        "url": "https://www.dbooks.org/android-notes-for-professionals-1453/",
+        "price": "12.99"
+    },
+    {
+        "id": "1517",
+        "title": "Kotlin Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1517s.jpg",
+        "url": "https://www.dbooks.org/kotlin-notes-for-professionals-1517/",
+        "price": "24.99"
+    },
+    {
+        "id": "1566",
+        "title": "3D Game Development with LWJGL 3",
+        "subtitle": "Learn the main concepts involved in writing 3D games using the Lighweight Java Gaming Library",
+        "authors": "Antonio Hernández Bejarano",
+        "image": "https://www.dbooks.org/img/books/1566s.jpg",
+        "url": "https://www.dbooks.org/3d-game-development-with-lwjgl-3-1566/",
+        "price": "5.99"
+    },
+    {
+        "id": "5591710896",
+        "title": "Open Data Structures (in Java)",
+        "subtitle": "",
+        "authors": "Pat Morin",
+        "image": "https://www.dbooks.org/img/books/5591710896s.jpg",
+        "url": "https://www.dbooks.org/open-data-structures-in-java-5591710896/",
+        "price": "29.99"
+    },
+    {
+        "id": "1449305350",
+        "title": "Jenkins: The Definitive Guide",
+        "subtitle": "Continuous Integration for the Masses",
+        "authors": "John Ferguson Smart",
+        "image": "https://www.dbooks.org/img/books/1449305350s.jpg",
+        "url": "https://www.dbooks.org/jenkins-the-definitive-guide-1449305350/",
+        "price": "24.99"
+    },
+    {
+        "id": "5613725472",
+        "title": "Object-oriented Programming in C#",
+        "subtitle": "for C and Java programmers",
+        "authors": "Kurt Normark",
+        "image": "https://www.dbooks.org/img/books/5613725472s.jpg",
+        "url": "https://www.dbooks.org/object-oriented-programming-in-c-5613725472/",
+        "price": "8.49"
+    },
+    {
+        "id": "8090466192",
+        "title": "OOP - Learn Object Oriented Thinking and Programming",
+        "subtitle": "",
+        "authors": "Rudolf Pecinovský",
+        "image": "https://www.dbooks.org/img/books/8090466192s.jpg",
+        "url": "https://www.dbooks.org/oop-learn-object-oriented-thinking-and-programming-8090466192/",
+        "price": "19.99"
+    },
+    {
+        "id": "5669310752",
+        "title": "Patterns for Beginning Programmers",
+        "subtitle": "With Examples in Java",
+        "authors": "David Bernstein",
+        "image": "https://www.dbooks.org/img/books/5669310752s.jpg",
+        "url": "https://www.dbooks.org/patterns-for-beginning-programmers-5669310752/",
+        "price": "8.49"
+    },
+    {
+        "id": "1491931663",
+        "title": "C++ Today",
+        "subtitle": "The Beast is Back",
+        "authors": "Jon Kalb, Gašper Ažman",
+        "image": "https://www.dbooks.org/img/books/1491931663s.jpg",
+        "url": "https://www.dbooks.org/c-today-1491931663/",
+        "price": "8.49"
+    },
+    {
+        "id": "9811367795",
+        "title": "Vote Buying in Indonesia",
+        "subtitle": "The Mechanics of Electoral Bribery",
+        "authors": "Burhanuddin Muhtadi",
+        "image": "https://www.dbooks.org/img/books/9811367795s.jpg",
+        "url": "https://www.dbooks.org/vote-buying-in-indonesia-9811367795/",
+        "price": "5.99"
+    },
+    {
+        "id": "1484201000",
+        "title": "Android Application Development for the Intel Platform",
+        "subtitle": "",
+        "authors": "Ryan Cohen, Tao Wang",
+        "image": "https://www.dbooks.org/img/books/1484201000s.jpg",
+        "url": "https://www.dbooks.org/android-application-development-for-the-intel-platform-1484201000/",
+        "price": "8.49"
+    },
+    {
+        "id": "3319898841",
+        "title": "Programming Languages and Systems",
+        "subtitle": "27th European Symposium on Programming, ESOP 2018, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018, Thessaloniki, Greece, April 14-20, 2018, Proceedings",
+        "authors": "Amal Ahmed",
+        "image": "https://www.dbooks.org/img/books/3319898841s.jpg",
+        "url": "https://www.dbooks.org/programming-languages-and-systems-3319898841/",
+        "price": "7.99"
+    },
+    {
+        "id": "1430268387",
+        "title": "Intel Galileo and Intel Galileo Gen 2",
+        "subtitle": "API Features and Arduino Projects for Linux Programmers",
+        "authors": "Manoel Carlos Ramon",
+        "image": "https://www.dbooks.org/img/books/1430268387s.jpg",
+        "url": "https://www.dbooks.org/intel-galileo-and-intel-galileo-gen-2-1430268387/",
+        "price": "12.99"
+    },
+    {
+        "id": "1430261315",
+        "title": "Android on x86",
+        "subtitle": "An Introduction to Optimizing for Intel Architecture",
+        "authors": "Iggy Krajci, Darren Cummings",
+        "image": "https://www.dbooks.org/img/books/1430261315s.jpg",
+        "url": "https://www.dbooks.org/android-on-x86-1430261315/",
+        "price": "5.99"
+    },
+    {
+        "id": "9402412514",
+        "title": "mHealth Innovation in Asia",
+        "subtitle": "Grassroots Challenges and Practical Interventions",
+        "authors": "Emma Baulch, Jerry Watkins, Amina Tariq",
+        "image": "https://www.dbooks.org/img/books/9402412514s.jpg",
+        "url": "https://www.dbooks.org/mhealth-innovation-in-asia-9402412514/",
+        "price": "12.99"
+    },
+    {
+        "id": "0764579967",
+        "title": "Rexx Programmer&#039;s Reference",
+        "subtitle": "",
+        "authors": "Howard Fosdick",
+        "image": "https://www.dbooks.org/img/books/0764579967s.jpg",
+        "url": "https://www.dbooks.org/rexx-programmers-reference-0764579967/",
+        "price": "10.99"
+    },
+    {
+        "id": "1503",
+        "title": "Hadoop for Windows Succinctly",
+        "subtitle": "",
+        "authors": "Dave Vickers",
+        "image": "https://www.dbooks.org/img/books/1503s.jpg",
+        "url": "https://www.dbooks.org/hadoop-for-windows-succinctly-1503/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319452649",
+        "title": "The Restless Compendium",
+        "subtitle": "Interdisciplinary Investigations of Rest and Its Opposites",
+        "authors": "Felicity Callard, Kimberley Staines, James Wilkes",
+        "image": "https://www.dbooks.org/img/books/3319452649s.jpg",
+        "url": "https://www.dbooks.org/the-restless-compendium-3319452649/",
+        "price": "14.99"
+    },
+    {
+        "id": "1906434859",
+        "title": "SQL Server Backup and Restore",
+        "subtitle": "",
+        "authors": "Shawn McGehee",
+        "image": "https://www.dbooks.org/img/books/1906434859s.jpg",
+        "url": "https://www.dbooks.org/sql-server-backup-and-restore-1906434859/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319120395",
+        "title": "Rewilding European Landscapes",
+        "subtitle": "",
+        "authors": "Henrique M. Pereira, Laetitia M. Navarro",
+        "image": "https://www.dbooks.org/img/books/3319120395s.jpg",
+        "url": "https://www.dbooks.org/rewilding-european-landscapes-3319120395/",
+        "price": "29.99"
+    },
+    {
+        "id": "3319919717",
+        "title": "RESTART Sustainable Business Model Innovation",
+        "subtitle": "",
+        "authors": "Sveinung Jørgensen, Lars Jacob Tynes Pedersen",
+        "image": "https://www.dbooks.org/img/books/3319919717s.jpg",
+        "url": "https://www.dbooks.org/restart-sustainable-business-model-innovation-3319919717/",
+        "price": "12.99"
+    },
+    {
+        "id": "3319730193",
+        "title": "Nordic Mediation Research",
+        "subtitle": "",
+        "authors": "Anna Nylund, Kaijus Ervasti, Lin Adrian",
+        "image": "https://www.dbooks.org/img/books/3319730193s.jpg",
+        "url": "https://www.dbooks.org/nordic-mediation-research-3319730193/",
+        "price": "6.49"
+    },
+    {
+        "id": "3319732501",
+        "title": "Riverine Ecosystem Management",
+        "subtitle": "Science for Governing Towards a Sustainable Future",
+        "authors": "Stefan Schmutz, Jan Sendzimir",
+        "image": "https://www.dbooks.org/img/books/3319732501s.jpg",
+        "url": "https://www.dbooks.org/riverine-ecosystem-management-3319732501/",
+        "price": "8.49"
+    },
+    {
+        "id": "1783743204",
+        "title": "Searching for Sharing",
+        "subtitle": "Heritage and Multimedia in Africa",
+        "authors": "Daniela Merolla, Mark Turin",
+        "image": "https://www.dbooks.org/img/books/1783743204s.jpg",
+        "url": "https://www.dbooks.org/searching-for-sharing-1783743204/",
+        "price": "6.49"
+    },
+    {
+        "id": "1783740698",
+        "title": "Cultural Heritage Ethics",
+        "subtitle": "Between Theory and Practice",
+        "authors": "Constantine Sandis",
+        "image": "https://www.dbooks.org/img/books/1783740698s.jpg",
+        "url": "https://www.dbooks.org/cultural-heritage-ethics-1783740698/",
+        "price": "8.49"
+    },
+    {
+        "id": "1906434425",
+        "title": "The SysAdmin Handbook",
+        "subtitle": "The Best of Simple-Talk",
+        "authors": "Various",
+        "image": "https://www.dbooks.org/img/books/1906434425s.jpg",
+        "url": "https://www.dbooks.org/the-sysadmin-handbook-1906434425/",
+        "price": "10.99"
+    },
+    {
+        "id": "5591602624",
+        "title": "Lisp Web Tales",
+        "subtitle": "",
+        "authors": "Pavel Penev",
+        "image": "https://www.dbooks.org/img/books/5591602624s.jpg",
+        "url": "https://www.dbooks.org/lisp-web-tales-5591602624/",
+        "price": "14.99"
+    },
+    {
+        "id": "3319002333",
+        "title": "The South Texas Health Status Review",
+        "subtitle": "A Health Disparities Roadmap",
+        "authors": "Amelie G. Ramirez, Ian M. Thompson, Leonel Vela",
+        "image": "https://www.dbooks.org/img/books/3319002333s.jpg",
+        "url": "https://www.dbooks.org/the-south-texas-health-status-review-3319002333/",
+        "price": "12.99"
+    },
+    {
+        "id": "3030020681",
+        "title": "The Ethics of Vaccination",
+        "subtitle": "",
+        "authors": "Alberto Giubilini",
+        "image": "https://www.dbooks.org/img/books/3030020681s.jpg",
+        "url": "https://www.dbooks.org/the-ethics-of-vaccination-3030020681/",
+        "price": "7.99"
+    },
+    {
+        "id": "4431555587",
+        "title": "Agricultural and Forestry Reconstruction After the Great East Japan Earthquake",
+        "subtitle": "Tsunami, Radioactive, and Reputational Damages",
+        "authors": "Toshiyuki Monma, Itsuo Goto, Takahisa Hayashi, Hidekiyo Tachiya, Kanju Ohsawa",
+        "image": "https://www.dbooks.org/img/books/4431555587s.jpg",
+        "url": "https://www.dbooks.org/agricultural-and-forestry-reconstruction-after-the-great-east-japan-earthquake-4431555587/",
+        "price": "24.99"
+    },
+    {
+        "id": "3030272052",
+        "title": "Louisiana&#039;s Response to Extreme Weather",
+        "subtitle": "A Coastal State&#039;s Adaptation Challenges and Successes",
+        "authors": "Shirley Laska",
+        "image": "https://www.dbooks.org/img/books/3030272052s.jpg",
+        "url": "https://www.dbooks.org/louisianas-response-to-extreme-weather-3030272052/",
+        "price": "29.99"
+    },
+    {
+        "id": "3030203891",
+        "title": "YOUMARES 9 - The Oceans: Our Research, Our Future",
+        "subtitle": "Proceedings of the 2018 conference for YOUng MArine RESearcher in Oldenburg, Germany",
+        "authors": "Simon Jungblut, Viola Liebich, Maya Bode-Dalby",
+        "image": "https://www.dbooks.org/img/books/3030203891s.jpg",
+        "url": "https://www.dbooks.org/youmares-9-the-oceans-our-research-our-future-3030203891/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319944630",
+        "title": "Neural Networks and Deep Learning",
+        "subtitle": "A Textbook",
+        "authors": "Charu C. Aggarwal",
+        "image": "https://www.dbooks.org/img/books/3319944630s.jpg",
+        "url": "https://www.dbooks.org/neural-networks-and-deep-learning-3319944630/",
+        "price": "6.49"
+    },
+    {
+        "id": "1509302921",
+        "title": "Migrating SQL Server Databases to Azure",
+        "subtitle": "Microsoft Azure Essentials",
+        "authors": "Carl Rabeler",
+        "image": "https://www.dbooks.org/img/books/1509302921s.jpg",
+        "url": "https://www.dbooks.org/migrating-sql-server-databases-to-azure-1509302921/",
+        "price": "14.99"
+    },
+    {
+        "id": "5592543782",
+        "title": "Spring Framework Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5592543782s.jpg",
+        "url": "https://www.dbooks.org/spring-framework-notes-for-professionals-5592543782/",
+        "price": "5.99"
+    },
+    {
+        "id": "1800640730",
+        "title": "Romanticism and Time",
+        "subtitle": "Literary Temporalities",
+        "authors": "Sophie Laniel-Musitelli, Céline Sabiron",
+        "image": "https://www.dbooks.org/img/books/1800640730s.jpg",
+        "url": "https://www.dbooks.org/romanticism-and-time-1800640730/",
+        "price": "5.99"
+    },
+    {
+        "id": "5651394705",
+        "title": "Spring Data Programming Cookbook",
+        "subtitle": "",
+        "authors": "JCGs",
+        "image": "https://www.dbooks.org/img/books/5651394705s.jpg",
+        "url": "https://www.dbooks.org/spring-data-programming-cookbook-5651394705/",
+        "price": "24.99"
+    },
+    {
+        "id": "1626101221",
+        "title": "Introduction to Neuroscience",
+        "subtitle": "",
+        "authors": "Valerie Hedges",
+        "image": "https://www.dbooks.org/img/books/1626101221s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-neuroscience-1626101221/",
+        "price": "6.49"
+    },
+    {
+        "id": "1642002283",
+        "title": "ASP.NET Core APIs Succinctly",
+        "subtitle": "",
+        "authors": "Dirk Strauss",
+        "image": "https://www.dbooks.org/img/books/1642002283s.jpg",
+        "url": "https://www.dbooks.org/aspnet-core-apis-succinctly-1642002283/",
+        "price": "7.99"
+    },
+    {
+        "id": "331992964X",
+        "title": "Drinking in Victorian and Edwardian Britain",
+        "subtitle": "Beyond the Spectre of the Drunkard",
+        "authors": "Thora Hands",
+        "image": "https://www.dbooks.org/img/books/331992964Xs.jpg",
+        "url": "https://www.dbooks.org/drinking-in-victorian-and-edwardian-britain-331992964x/",
+        "price": "24.99"
+    },
+    {
+        "id": "1137407964",
+        "title": "Rethinking Interdisciplinarity across the Social Sciences and Neurosciences",
+        "subtitle": "",
+        "authors": "Felicity Callard, Des Fitzgerald",
+        "image": "https://www.dbooks.org/img/books/1137407964s.jpg",
+        "url": "https://www.dbooks.org/rethinking-interdisciplinarity-across-the-social-sciences-and-neurosciences-1137407964/",
+        "price": "14.99"
+    },
+    {
+        "id": "3319967762",
+        "title": "Goods and Services of Marine Bivalves",
+        "subtitle": "",
+        "authors": "Aad C. Smaal, Joao G. Ferreira, Jon Grant, Jens K. Petersen, Øivind Strand",
+        "image": "https://www.dbooks.org/img/books/3319967762s.jpg",
+        "url": "https://www.dbooks.org/goods-and-services-of-marine-bivalves-3319967762/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319131354",
+        "title": "Mergers and Alliances in Higher Education",
+        "subtitle": "International Practice and Emerging Opportunities",
+        "authors": "Adrian Curaj, Luke Georghiou, Jennifer Cassingena Harper, Eva Egron-Polak",
+        "image": "https://www.dbooks.org/img/books/3319131354s.jpg",
+        "url": "https://www.dbooks.org/mergers-and-alliances-in-higher-education-3319131354/",
+        "price": "10.99"
+    },
+    {
+        "id": "3319191683",
+        "title": "Economics of Land Degradation and Improvement – A Global Assessment for Sustainable Development",
+        "subtitle": "",
+        "authors": "Ephraim Nkonya, Alisher Mirzabaev, Joachim von Braun",
+        "image": "https://www.dbooks.org/img/books/3319191683s.jpg",
+        "url": "https://www.dbooks.org/economics-of-land-degradation-and-improvement-a-global-assessment-for-sustainable-development-3319191683/",
+        "price": "12.99"
+    },
+    {
+        "id": "1137556978",
+        "title": "Anti-Vivisection and the Profession of Medicine in Britain",
+        "subtitle": "A Social History",
+        "authors": "A.W.H. Bates",
+        "image": "https://www.dbooks.org/img/books/1137556978s.jpg",
+        "url": "https://www.dbooks.org/anti-vivisection-and-the-profession-of-medicine-in-britain-1137556978/",
+        "price": "8.49"
+    },
+    {
+        "id": "4431548041",
+        "title": "Sustainable Living with Environmental Risks",
+        "subtitle": "",
+        "authors": "Nobuhiro Kaneko, Shinji Yoshiura, Masanori Kobayashi",
+        "image": "https://www.dbooks.org/img/books/4431548041s.jpg",
+        "url": "https://www.dbooks.org/sustainable-living-with-environmental-risks-4431548041/",
+        "price": "6.49"
+    },
+    {
+        "id": "3319912232",
+        "title": "Linear Selection Indices in Modern Plant Breeding",
+        "subtitle": "",
+        "authors": "J. Jesus Céron-Rojas, José Crossa",
+        "image": "https://www.dbooks.org/img/books/3319912232s.jpg",
+        "url": "https://www.dbooks.org/linear-selection-indices-in-modern-plant-breeding-3319912232/",
+        "price": "29.99"
+    },
+    {
+        "id": "3030238423",
+        "title": "Nature-Based Flood Risk Management on Private Land",
+        "subtitle": "Disciplinary Perspectives on a Multidisciplinary Challenge",
+        "authors": "Thomas Hartmann, Lenka Slavíková, Simon McCarthy",
+        "image": "https://www.dbooks.org/img/books/3030238423s.jpg",
+        "url": "https://www.dbooks.org/nature-based-flood-risk-management-on-private-land-3030238423/",
+        "price": "10.99"
+    },
+    {
+        "id": "3319932845",
+        "title": "YOUMARES 8 – Oceans Across Boundaries: Learning from each other",
+        "subtitle": "Proceedings of the 2017 conference for YOUng MARine RESearchers in Kiel, Germany",
+        "authors": "Simon Jungblut, Viola Liebich, Maya Bode",
+        "image": "https://www.dbooks.org/img/books/3319932845s.jpg",
+        "url": "https://www.dbooks.org/youmares-8-oceans-across-boundaries-learning-from-each-other-3319932845/",
+        "price": "29.99"
+    },
+    {
+        "id": "9811073929",
+        "title": "Mercury Pollution in Minamata",
+        "subtitle": "",
+        "authors": "Hisashi Yokoyama",
+        "image": "https://www.dbooks.org/img/books/9811073929s.jpg",
+        "url": "https://www.dbooks.org/mercury-pollution-in-minamata-9811073929/",
+        "price": "29.99"
+    },
+    {
+        "id": "9402411410",
+        "title": "Situating Children of Migrants across Borders and Origins",
+        "subtitle": "A Methodological Overview",
+        "authors": "Claudio Bolzman, Laura Bernardi, Jean-Marie Le Goff",
+        "image": "https://www.dbooks.org/img/books/9402411410s.jpg",
+        "url": "https://www.dbooks.org/situating-children-of-migrants-across-borders-and-origins-9402411410/",
+        "price": "24.99"
+    },
+    {
+        "id": "3319597345",
+        "title": "China&#039;s Gas Development Strategies",
+        "subtitle": "",
+        "authors": "Shell Centre, The Development Research Center (DRC) of the State Council of the People’s Republic of China",
+        "image": "https://www.dbooks.org/img/books/3319597345s.jpg",
+        "url": "https://www.dbooks.org/chinas-gas-development-strategies-3319597345/",
+        "price": "8.49"
+    },
+    {
+        "id": "3319235761",
+        "title": "Integrated Groundwater Management",
+        "subtitle": "Concepts, Approaches and Challenges",
+        "authors": "Anthony J. Jakeman, Olivier Barreteau, Randall J. Hunt, Jean-Daniel Rinaudo, Andrew Ross",
+        "image": "https://www.dbooks.org/img/books/3319235761s.jpg",
+        "url": "https://www.dbooks.org/integrated-groundwater-management-3319235761/",
+        "price": "29.99"
+    },
+    {
+        "id": "3319746960",
+        "title": "Protest Movements in Asylum and Deportation",
+        "subtitle": "",
+        "authors": "Sieglinde Rosenberger, Verena Stern, Nina Merhaut",
+        "image": "https://www.dbooks.org/img/books/3319746960s.jpg",
+        "url": "https://www.dbooks.org/protest-movements-in-asylum-and-deportation-3319746960/",
+        "price": "19.99"
+    },
+    {
+        "id": "3319928139",
+        "title": "Housing Estates in Europe",
+        "subtitle": "Poverty, Ethnic Segregation and Policy Challenges",
+        "authors": "Daniel Baldwin Hess, Tiit Tammaru, Maarten van Ham",
+        "image": "https://www.dbooks.org/img/books/3319928139s.jpg",
+        "url": "https://www.dbooks.org/housing-estates-in-europe-3319928139/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319189719",
+        "title": "Society - Water - Technology",
+        "subtitle": "A Critical Appraisal of Major Water Engineering Projects",
+        "authors": "Reinhard Hüttl, Oliver Bens, Christine Bismuth, Sebastian Hoechstetter",
+        "image": "https://www.dbooks.org/img/books/3319189719s.jpg",
+        "url": "https://www.dbooks.org/society-water-technology-3319189719/",
+        "price": "14.99"
+    },
+    {
+        "id": "3030116743",
+        "title": "Hot Property",
+        "subtitle": "The Housing Market in Major Cities",
+        "authors": "Rob Nijskens, Melanie Lohuis, Paul Hilbers, Willem Heeringa",
+        "image": "https://www.dbooks.org/img/books/3030116743s.jpg",
+        "url": "https://www.dbooks.org/hot-property-3030116743/",
+        "price": "6.49"
+    },
+    {
+        "id": "3319323946",
+        "title": "Assessment in Mathematics Education",
+        "subtitle": "Large-Scale Assessment and Classroom Assessment",
+        "authors": "Christine Suurtamm, Denisse Thompson, Rae Young Kim, Leonora Diaz Moreno, Nathalie Sayac, Stanislaw Schukajlow, Edward Silver, Stefan Ufer, Pauline Vos",
+        "image": "https://www.dbooks.org/img/books/3319323946s.jpg",
+        "url": "https://www.dbooks.org/assessment-in-mathematics-education-3319323946/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319484664",
+        "title": "S-BPM in the Production Industry",
+        "subtitle": "A Stakeholder Approach",
+        "authors": "Matthias Neubauer, Christian Stary",
+        "image": "https://www.dbooks.org/img/books/3319484664s.jpg",
+        "url": "https://www.dbooks.org/s-bpm-in-the-production-industry-3319484664/",
+        "price": "12.99"
+    },
+    {
+        "id": "1760463353",
+        "title": "The Jingshan Report",
+        "subtitle": "Opening China&#039;s Financial Sector",
+        "authors": "China Finance 40 Forum Research Group",
+        "image": "https://www.dbooks.org/img/books/1760463353s.jpg",
+        "url": "https://www.dbooks.org/the-jingshan-report-1760463353/",
+        "price": "6.49"
+    },
+    {
+        "id": "3319277774",
+        "title": "Micro-, Meso- and Macro-Connectomics of the Brain",
+        "subtitle": "",
+        "authors": "Henry Kennedy, David C. Van Essen, Yves Christen",
+        "image": "https://www.dbooks.org/img/books/3319277774s.jpg",
+        "url": "https://www.dbooks.org/micro-meso-and-macro-connectomics-of-the-brain-3319277774/",
+        "price": "24.99"
+    },
+    {
+        "id": "3030151956",
+        "title": "Principles of Mechanics",
+        "subtitle": "Fundamental University Physics",
+        "authors": "Salma Alrasheed",
+        "image": "https://www.dbooks.org/img/books/3030151956s.jpg",
+        "url": "https://www.dbooks.org/principles-of-mechanics-3030151956/",
+        "price": "29.99"
+    },
+    {
+        "id": "940077088X",
+        "title": "Urbanization, Biodiversity and Ecosystem Services: Challenges and Opportunities",
+        "subtitle": "A Global Assessment",
+        "authors": "Thomas Elmqvist, Michail Fragkias, Julie Goodness, Burak Güneralp, Peter J. Marcotullio, Robert I. McDonald, Susan Parnell, Maria Schewenius, Marte Sendstad, Karen C. Seto, Cathy Wilkinson",
+        "image": "https://www.dbooks.org/img/books/940077088Xs.jpg",
+        "url": "https://www.dbooks.org/urbanization-biodiversity-and-ecosystem-services-challenges-and-opportunities-940077088x/",
+        "price": "29.99"
+    },
+    {
+        "id": "3030323943",
+        "title": "Biological Invasions in South Africa",
+        "subtitle": "",
+        "authors": "Brian W. van Wilgen, John Measey, David M. Richardson, John R. Wilson, Tsungai A. Zengeya",
+        "image": "https://www.dbooks.org/img/books/3030323943s.jpg",
+        "url": "https://www.dbooks.org/biological-invasions-in-south-africa-3030323943/",
+        "price": "10.99"
+    },
+    {
+        "id": "303026338X",
+        "title": "Obsessed by a Dream",
+        "subtitle": "The Physicist Rolf Widerøe – a Giant in the History of Accelerators",
+        "authors": "Aashild Sørheim",
+        "image": "https://www.dbooks.org/img/books/303026338Xs.jpg",
+        "url": "https://www.dbooks.org/obsessed-by-a-dream-303026338x/",
+        "price": "7.99"
+    },
+    {
+        "id": "3030384381",
+        "title": "An Invitation to Statistics in Wasserstein Space",
+        "subtitle": "",
+        "authors": "Victor M. Panaretos, Yoav Zemel",
+        "image": "https://www.dbooks.org/img/books/3030384381s.jpg",
+        "url": "https://www.dbooks.org/an-invitation-to-statistics-in-wasserstein-space-3030384381/",
+        "price": "12.99"
+    },
+    {
+        "id": "3030301885",
+        "title": "Student Misconceptions and Errors in Physics and Mathematics",
+        "subtitle": "Exploring Data from TIMSS and TIMSS Advanced",
+        "authors": "Teresa Neidorf, Alka Arora, Ebru Erberber, Yemurai Tsokodayi, Thanh Mai",
+        "image": "https://www.dbooks.org/img/books/3030301885s.jpg",
+        "url": "https://www.dbooks.org/student-misconceptions-and-errors-in-physics-and-mathematics-3030301885/",
+        "price": "19.99"
+    },
+    {
+        "id": "3030259684",
+        "title": "Your Post has been Removed",
+        "subtitle": "Tech Giants and Freedom of Speech",
+        "authors": "Frederik Stjernfelt, Anne Mette Lauritzen",
+        "image": "https://www.dbooks.org/img/books/3030259684s.jpg",
+        "url": "https://www.dbooks.org/your-post-has-been-removed-3030259684/",
+        "price": "12.99"
+    },
+    {
+        "id": "3030378187",
+        "title": "Flexitranstore",
+        "subtitle": "Special Session in the 21st International Symposium on High Voltage Engineering (ISH 2019)",
+        "authors": "Bálint Németh, Lambros Ekonomou",
+        "image": "https://www.dbooks.org/img/books/3030378187s.jpg",
+        "url": "https://www.dbooks.org/flexitranstore-3030378187/",
+        "price": "19.99"
+    },
+    {
+        "id": "1108416756",
+        "title": "The Haskell School of Music",
+        "subtitle": "From Signals to Symphonies",
+        "authors": "Paul Hudak, Donya Quick",
+        "image": "https://www.dbooks.org/img/books/1108416756s.jpg",
+        "url": "https://www.dbooks.org/the-haskell-school-of-music-1108416756/",
+        "price": "29.99"
+    },
+    {
+        "id": "1185",
+        "title": "Why Should I Care? Mobile Security for The Rest of Us",
+        "subtitle": "10 Simple Things You Can Do to Protect Yourself and Your Organization from Today&#039;s Mobile Computing Threats",
+        "authors": "Veracode",
+        "image": "https://www.dbooks.org/img/books/1185s.jpg",
+        "url": "https://www.dbooks.org/why-should-i-care-mobile-security-for-the-rest-of-us-1185/",
+        "price": "14.99"
+    },
+    {
+        "id": "190925407X",
+        "title": "How to Read a Folktale",
+        "subtitle": "The &#039;Ibonia&#039; Epic from Madagascar",
+        "authors": "Lee Haring",
+        "image": "https://www.dbooks.org/img/books/190925407Xs.jpg",
+        "url": "https://www.dbooks.org/how-to-read-a-folktale-190925407x/",
+        "price": "10.99"
+    },
+    {
+        "id": "1491959185",
+        "title": "Ten Steps to Linux Survival",
+        "subtitle": "Essentials for Navigating the Bash Jungle",
+        "authors": "James Lehmer",
+        "image": "https://www.dbooks.org/img/books/1491959185s.jpg",
+        "url": "https://www.dbooks.org/ten-steps-to-linux-survival-1491959185/",
+        "price": "10.99"
+    },
+    {
+        "id": "9811307857",
+        "title": "ENZYMES: Catalysis, Kinetics and Mechanisms",
+        "subtitle": "",
+        "authors": "N.S.  Punekar",
+        "image": "https://www.dbooks.org/img/books/9811307857s.jpg",
+        "url": "https://www.dbooks.org/enzymes-catalysis-kinetics-and-mechanisms-9811307857/",
+        "price": "5.99"
+    },
+    {
+        "id": "3030127273",
+        "title": "Mapping Global Theatre Histories",
+        "subtitle": "",
+        "authors": "Mark Pizzato",
+        "image": "https://www.dbooks.org/img/books/3030127273s.jpg",
+        "url": "https://www.dbooks.org/mapping-global-theatre-histories-3030127273/",
+        "price": "12.99"
+    },
+    {
+        "id": "0735695830",
+        "title": "Data Protection for the Hybrid Cloud",
+        "subtitle": "Microsoft System Center",
+        "authors": "Shreesh Dubey, Vijay Tandra Sistla, Shivam Garg, Aashish Ramdas, Mitch Tulloch",
+        "image": "https://www.dbooks.org/img/books/0735695830s.jpg",
+        "url": "https://www.dbooks.org/data-protection-for-the-hybrid-cloud-0735695830/",
+        "price": "12.99"
+    },
+    {
+        "id": "1461",
+        "title": "Angular 2+ Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1461s.jpg",
+        "url": "https://www.dbooks.org/angular-2-notes-for-professionals-1461/",
+        "price": "6.49"
+    },
+    {
+        "id": "1481",
+        "title": "Entity Framework Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1481s.jpg",
+        "url": "https://www.dbooks.org/entity-framework-notes-for-professionals-1481/",
+        "price": "24.99"
+    },
+    {
+        "id": "1483",
+        "title": "Git Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1483s.jpg",
+        "url": "https://www.dbooks.org/git-notes-for-professionals-1483/",
+        "price": "19.99"
+    },
+    {
+        "id": "0999773038",
+        "title": "Kubernetes for Full-Stack Developers",
+        "subtitle": "",
+        "authors": "Jamon Camisso, Hanif Jetha, Katherine Juell",
+        "image": "https://www.dbooks.org/img/books/0999773038s.jpg",
+        "url": "https://www.dbooks.org/kubernetes-for-full-stack-developers-0999773038/",
+        "price": "29.99"
+    },
+    {
+        "id": "1523",
+        "title": "A Graduate Course in Applied Cryptography",
+        "subtitle": "The indispensable tool used to protect information in computing systems",
+        "authors": "Dan Boneh, Victor Shoup",
+        "image": "https://www.dbooks.org/img/books/1523s.jpg",
+        "url": "https://www.dbooks.org/a-graduate-course-in-applied-cryptography-1523/",
+        "price": "14.99"
+    },
+    {
+        "id": "1796378429",
+        "title": "I Love Ruby",
+        "subtitle": "Get started with the greatest programming language made for humans",
+        "authors": "Karthikeyan A K",
+        "image": "https://www.dbooks.org/img/books/1796378429s.jpg",
+        "url": "https://www.dbooks.org/i-love-ruby-1796378429/",
+        "price": "24.99"
+    },
+    {
+        "id": "1617295817",
+        "title": "Modern C",
+        "subtitle": "",
+        "authors": "Jens Gustedt",
+        "image": "https://www.dbooks.org/img/books/1617295817s.jpg",
+        "url": "https://www.dbooks.org/modern-c-1617295817/",
+        "price": "5.99"
+    },
+    {
+        "id": "1529",
+        "title": "Microsoft SQL Server Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1529s.jpg",
+        "url": "https://www.dbooks.org/microsoft-sql-server-notes-for-professionals-1529/",
+        "price": "29.99"
+    },
+    {
+        "id": "1625340524",
+        "title": "The Piracy Crusade",
+        "subtitle": "How the Music Industry&#039;s War on Sharing Destroys Markets and Erodes Civil Liberties",
+        "authors": "Aram Sinnreich",
+        "image": "https://www.dbooks.org/img/books/1625340524s.jpg",
+        "url": "https://www.dbooks.org/the-piracy-crusade-1625340524/",
+        "price": "8.49"
+    },
+    {
+        "id": "5591647791",
+        "title": "R Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591647791s.jpg",
+        "url": "https://www.dbooks.org/r-notes-for-professionals-5591647791/",
+        "price": "6.49"
+    },
+    {
+        "id": "5591647999",
+        "title": "PostgreSQL Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591647999s.jpg",
+        "url": "https://www.dbooks.org/postgresql-notes-for-professionals-5591647999/",
+        "price": "5.99"
+    },
+    {
+        "id": "5591648187",
+        "title": "PowerShell Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591648187s.jpg",
+        "url": "https://www.dbooks.org/powershell-notes-for-professionals-5591648187/",
+        "price": "7.99"
+    },
+    {
+        "id": "0198843712",
+        "title": "Great Policy Successes",
+        "subtitle": "",
+        "authors": "Mallory Compton, Paul &#039;t Hart",
+        "image": "https://www.dbooks.org/img/books/0198843712s.jpg",
+        "url": "https://www.dbooks.org/great-policy-successes-0198843712/",
+        "price": "29.99"
+    },
+    {
+        "id": "1733354301",
+        "title": "The Public Domain Song Anthology",
+        "subtitle": "With Modern and Traditional Harmonization",
+        "authors": "David Berger, Chuck Israels",
+        "image": "https://www.dbooks.org/img/books/1733354301s.jpg",
+        "url": "https://www.dbooks.org/the-public-domain-song-anthology-1733354301/",
+        "price": "29.99"
+    },
+    {
+        "id": "5592639909",
+        "title": "Go Web Development Succinctly",
+        "subtitle": "",
+        "authors": "Mark Lewin",
+        "image": "https://www.dbooks.org/img/books/5592639909s.jpg",
+        "url": "https://www.dbooks.org/go-web-development-succinctly-5592639909/",
+        "price": "19.99"
+    },
+    {
+        "id": "1928442366",
+        "title": "The dream pillow",
+        "subtitle": "",
+        "authors": "Nadia Davids",
+        "image": "https://www.dbooks.org/img/books/1928442366s.jpg",
+        "url": "https://www.dbooks.org/the-dream-pillow-1928442366/",
+        "price": "29.99"
+    },
+    {
+        "id": "1928442390",
+        "title": "The fish that couldn&#039;t swim",
+        "subtitle": "",
+        "authors": "Sarah Gaylard",
+        "image": "https://www.dbooks.org/img/books/1928442390s.jpg",
+        "url": "https://www.dbooks.org/the-fish-that-couldnt-swim-1928442390/",
+        "price": "8.49"
+    },
+    {
+        "id": "1928442323",
+        "title": "Where is Lulu?",
+        "subtitle": "",
+        "authors": "Mohale Mashigo",
+        "image": "https://www.dbooks.org/img/books/1928442323s.jpg",
+        "url": "https://www.dbooks.org/where-is-lulu-1928442323/",
+        "price": "14.99"
+    },
+    {
+        "id": "1928442358",
+        "title": "Who takes the Train?",
+        "subtitle": "",
+        "authors": "Mabel Mnensa",
+        "image": "https://www.dbooks.org/img/books/1928442358s.jpg",
+        "url": "https://www.dbooks.org/who-takes-the-train-1928442358/",
+        "price": "5.99"
+    },
+    {
+        "id": "192844234X",
+        "title": "Zandi and Birdy Monster",
+        "subtitle": "",
+        "authors": "Marie-Louise Rouget",
+        "image": "https://www.dbooks.org/img/books/192844234Xs.jpg",
+        "url": "https://www.dbooks.org/zandi-and-birdy-monster-192844234x/",
+        "price": "29.99"
+    },
+    {
+        "id": "0992235898",
+        "title": "Zanele Situ: My story",
+        "subtitle": "",
+        "authors": "Liz Sparg",
+        "image": "https://www.dbooks.org/img/books/0992235898s.jpg",
+        "url": "https://www.dbooks.org/zanele-situ-my-story-0992235898/",
+        "price": "29.99"
+    },
+    {
+        "id": "1928377181",
+        "title": "Zanele sees numbers",
+        "subtitle": "",
+        "authors": "Laura de Lange",
+        "image": "https://www.dbooks.org/img/books/1928377181s.jpg",
+        "url": "https://www.dbooks.org/zanele-sees-numbers-1928377181/",
+        "price": "6.49"
+    },
+    {
+        "id": "1928497306",
+        "title": "Wiggle jiggle",
+        "subtitle": "",
+        "authors": "Mathapelo Mabaso",
+        "image": "https://www.dbooks.org/img/books/1928497306s.jpg",
+        "url": "https://www.dbooks.org/wiggle-jiggle-1928497306/",
+        "price": "5.99"
+    },
+    {
+        "id": "1928497349",
+        "title": "Woof-woof!",
+        "subtitle": "",
+        "authors": "Sindiwe Magona",
+        "image": "https://www.dbooks.org/img/books/1928497349s.jpg",
+        "url": "https://www.dbooks.org/woof-woof-1928497349/",
+        "price": "24.99"
+    },
+    {
+        "id": "1928442374",
+        "title": "You, Yes You!",
+        "subtitle": "",
+        "authors": "Sam Wilson",
+        "image": "https://www.dbooks.org/img/books/1928442374s.jpg",
+        "url": "https://www.dbooks.org/you-yes-you-1928442374/",
+        "price": "14.99"
+    },
+    {
+        "id": "3030526739",
+        "title": "Words, Objects and Events in Economics",
+        "subtitle": "The Making of Economic Theory",
+        "authors": "Peter Róna, László Zsolnai, Agnieszka Wincewicz-Price",
+        "image": "https://www.dbooks.org/img/books/3030526739s.jpg",
+        "url": "https://www.dbooks.org/words-objects-and-events-in-economics-3030526739/",
+        "price": "24.99"
+    },
+    {
+        "id": "303042863X",
+        "title": "Migration, Agriculture and Rural Development",
+        "subtitle": "IMISCOE Short Reader",
+        "authors": "Michele Nori, Domenica Farinella",
+        "image": "https://www.dbooks.org/img/books/303042863Xs.jpg",
+        "url": "https://www.dbooks.org/migration-agriculture-and-rural-development-303042863x/",
+        "price": "5.99"
+    },
+    {
+        "id": "177199164X",
+        "title": "Small Cities, Big Issues",
+        "subtitle": "Reconceiving Community in a Neoliberal Era",
+        "authors": "Christopher Walmsley, Terry Kading",
+        "image": "https://www.dbooks.org/img/books/177199164Xs.jpg",
+        "url": "https://www.dbooks.org/small-cities-big-issues-177199164x/",
+        "price": "12.99"
+    },
+    {
+        "id": "5605601881",
+        "title": "Elementary Algorithms",
+        "subtitle": "",
+        "authors": "Larry LIU Xinyu",
+        "image": "https://www.dbooks.org/img/books/5605601881s.jpg",
+        "url": "https://www.dbooks.org/elementary-algorithms-5605601881/",
+        "price": "7.99"
+    },
+    {
+        "id": "5591710361",
+        "title": "Reintroducing React",
+        "subtitle": "Modern React with Every React Update Since v16 Demystified (includes advanced hooks)",
+        "authors": "Ohans Emmanuel",
+        "image": "https://www.dbooks.org/img/books/5591710361s.jpg",
+        "url": "https://www.dbooks.org/reintroducing-react-5591710361/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319511181",
+        "title": "Reactive Power Control in AC Power Systems",
+        "subtitle": "Fundamentals and Current Issues",
+        "authors": "Naser Mahdavi Tabatabaei, Ali Jafari Aghbolaghi, Nicu Bizon, Frede Blaabjerg",
+        "image": "https://www.dbooks.org/img/books/3319511181s.jpg",
+        "url": "https://www.dbooks.org/reactive-power-control-in-ac-power-systems-3319511181/",
+        "price": "7.99"
+    },
+    {
+        "id": "1507",
+        "title": "React in patterns",
+        "subtitle": "",
+        "authors": "Krasimir Tsonev",
+        "image": "https://www.dbooks.org/img/books/1507s.jpg",
+        "url": "https://www.dbooks.org/react-in-patterns-1507/",
+        "price": "14.99"
+    },
+    {
+        "id": "4431551115",
+        "title": "Nuclear Back-end and Transmutation Technology for Waste Disposal",
+        "subtitle": "Beyond the Fukushima Accident",
+        "authors": "Ken Nakajima",
+        "image": "https://www.dbooks.org/img/books/4431551115s.jpg",
+        "url": "https://www.dbooks.org/nuclear-back-end-and-transmutation-technology-for-waste-disposal-4431551115/",
+        "price": "7.99"
+    },
+    {
+        "id": "1445",
+        "title": "Acceptance Test Driven Development with React",
+        "subtitle": "",
+        "authors": "Juntao Qiu",
+        "image": "https://www.dbooks.org/img/books/1445s.jpg",
+        "url": "https://www.dbooks.org/acceptance-test-driven-development-with-react-1445/",
+        "price": "8.49"
+    },
+    {
+        "id": "5616401585",
+        "title": "The Next.js Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5616401585s.jpg",
+        "url": "https://www.dbooks.org/the-nextjs-handbook-5616401585/",
+        "price": "8.49"
+    },
+    {
+        "id": "3030255409",
+        "title": "Computer Aided Verification",
+        "subtitle": "31st International Conference, CAV 2019, New York City, NY, USA, July 15-18, 2019, Proceedings, Part I",
+        "authors": "Isil Dillig, Serdar Tasiran",
+        "image": "https://www.dbooks.org/img/books/3030255409s.jpg",
+        "url": "https://www.dbooks.org/computer-aided-verification-3030255409/",
+        "price": "12.99"
+    },
+    {
+        "id": "3319726048",
+        "title": "Online Hate Speech in the European Union",
+        "subtitle": "A Discourse-Analytic Perspective",
+        "authors": "Stavros Assimakopoulos, Fabienne Baider, Sharon Millar",
+        "image": "https://www.dbooks.org/img/books/3319726048s.jpg",
+        "url": "https://www.dbooks.org/online-hate-speech-in-the-european-union-3319726048/",
+        "price": "10.99"
+    },
+    {
+        "id": "5591524177",
+        "title": "2D Game Development: From Zero to Hero",
+        "subtitle": "A compendium of the community knowledge on game design and development",
+        "authors": "Penaz",
+        "image": "https://www.dbooks.org/img/books/5591524177s.jpg",
+        "url": "https://www.dbooks.org/2d-game-development-from-zero-to-hero-5591524177/",
+        "price": "6.49"
+    },
+    {
+        "id": "5635521117",
+        "title": "The Tiny Book of Rules",
+        "subtitle": "Tiny Drupal Books",
+        "authors": "Johan Falk, Wolfgang Ziegler",
+        "image": "https://www.dbooks.org/img/books/5635521117s.jpg",
+        "url": "https://www.dbooks.org/the-tiny-book-of-rules-5635521117/",
+        "price": "5.99"
+    },
+    {
+        "id": "3662564653",
+        "title": "X-Ray Contrast Media",
+        "subtitle": "OVERVIEW, USE AND PHARMACEUTICAL ASPECTS",
+        "authors": "Ulrich Speck",
+        "image": "https://www.dbooks.org/img/books/3662564653s.jpg",
+        "url": "https://www.dbooks.org/x-ray-contrast-media-3662564653/",
+        "price": "29.99"
+    },
+    {
+        "id": "3319282980",
+        "title": "Stable Isotopes to Trace Migratory Birds and to Identify Harmful Diseases",
+        "subtitle": "An Introductory Guide",
+        "authors": "G.J. Viljoen, A.G. Luckins, I. Naletoski",
+        "image": "https://www.dbooks.org/img/books/3319282980s.jpg",
+        "url": "https://www.dbooks.org/stable-isotopes-to-trace-migratory-birds-and-to-identify-harmful-diseases-3319282980/",
+        "price": "14.99"
+    },
+    {
+        "id": "3030161188",
+        "title": "Nb3Sn Accelerator Magnets",
+        "subtitle": "Designs, Technologies and Performance",
+        "authors": "Daniel Schoerling, Alexander Zlobin",
+        "image": "https://www.dbooks.org/img/books/3030161188s.jpg",
+        "url": "https://www.dbooks.org/nb3sn-accelerator-magnets-3030161188/",
+        "price": "8.49"
+    },
+    {
+        "id": "3319120905",
+        "title": "Reflections on the Fukushima Daiichi Nuclear Accident",
+        "subtitle": "Toward Social-Scientific Literacy and Engineering Resilience",
+        "authors": "Joonhong Ahn, Cathryn Carson, Mikael Jensen, Kohta Juraku, Shinya Nagasaki, Satoru Tanaka",
+        "image": "https://www.dbooks.org/img/books/3319120905s.jpg",
+        "url": "https://www.dbooks.org/reflections-on-the-fukushima-daiichi-nuclear-accident-3319120905/",
+        "price": "12.99"
+    },
+    {
+        "id": "331930030X",
+        "title": "Computing Characterizations of Drugs for Ion Channels and Receptors Using Markov Models",
+        "subtitle": "",
+        "authors": "Aslak Tveito, Glenn Lines",
+        "image": "https://www.dbooks.org/img/books/331930030Xs.jpg",
+        "url": "https://www.dbooks.org/computing-characterizations-of-drugs-for-ion-channels-and-receptors-using-markov-models-331930030x/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319960415",
+        "title": "Coming to Terms with Superdiversity",
+        "subtitle": "The Case of Rotterdam",
+        "authors": "Peter Scholten, Maurice Crul, Paul van de Laar",
+        "image": "https://www.dbooks.org/img/books/3319960415s.jpg",
+        "url": "https://www.dbooks.org/coming-to-terms-with-superdiversity-3319960415/",
+        "price": "12.99"
+    },
+    {
+        "id": "3662488477",
+        "title": "Autonomous Driving",
+        "subtitle": "Technical, Legal and Social Aspects",
+        "authors": "Markus Maurer, J. Christian Gerdes, Barbara Lenz, Hermann Winner",
+        "image": "https://www.dbooks.org/img/books/3662488477s.jpg",
+        "url": "https://www.dbooks.org/autonomous-driving-3662488477/",
+        "price": "7.99"
+    },
+    {
+        "id": "4431545832",
+        "title": "Radiation Monitoring and Dose Estimation of the Fukushima Nuclear Accident",
+        "subtitle": "",
+        "authors": "Sentaro Takahashi",
+        "image": "https://www.dbooks.org/img/books/4431545832s.jpg",
+        "url": "https://www.dbooks.org/radiation-monitoring-and-dose-estimation-of-the-fukushima-nuclear-accident-4431545832/",
+        "price": "19.99"
+    },
+    {
+        "id": "4431558942",
+        "title": "Perspectives on Nuclear Medicine for Molecular Diagnosis and Integrated Therapy",
+        "subtitle": "",
+        "authors": "Yuji Kuge, Tohru Shiga, Nagara Tamaki",
+        "image": "https://www.dbooks.org/img/books/4431558942s.jpg",
+        "url": "https://www.dbooks.org/perspectives-on-nuclear-medicine-for-molecular-diagnosis-and-integrated-therapy-4431558942/",
+        "price": "12.99"
+    },
+    {
+        "id": "3658172762",
+        "title": "Pharmacovigilance in the European Union",
+        "subtitle": "Practical Implementation across Member States",
+        "authors": "Michael Kaeding, Julia Schmälter, Christoph Klika",
+        "image": "https://www.dbooks.org/img/books/3658172762s.jpg",
+        "url": "https://www.dbooks.org/pharmacovigilance-in-the-european-union-3658172762/",
+        "price": "7.99"
+    },
+    {
+        "id": "3030108228",
+        "title": "Marine Carbon Biogeochemistry",
+        "subtitle": "A Primer for Earth System Scientists",
+        "authors": "Jack Middelburg",
+        "image": "https://www.dbooks.org/img/books/3030108228s.jpg",
+        "url": "https://www.dbooks.org/marine-carbon-biogeochemistry-3030108228/",
+        "price": "5.99"
+    },
+    {
+        "id": "3030242226",
+        "title": "Collective Actions in Europe",
+        "subtitle": "A Comparative, Economic and Transsystemic Analysis",
+        "authors": "Csongor István Nagy",
+        "image": "https://www.dbooks.org/img/books/3030242226s.jpg",
+        "url": "https://www.dbooks.org/collective-actions-in-europe-3030242226/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319752928",
+        "title": "White-Collar Crime in the Shadow Economy",
+        "subtitle": "Lack of Detection, Investigation and Conviction Compared to Social Security Fraud",
+        "authors": "Petter Gottschalk, Lars Gunnesdal",
+        "image": "https://www.dbooks.org/img/books/3319752928s.jpg",
+        "url": "https://www.dbooks.org/white-collar-crime-in-the-shadow-economy-3319752928/",
+        "price": "24.99"
+    },
+    {
+        "id": "9811049564",
+        "title": "Diversity and Evolution of Butterfly Wing Patterns",
+        "subtitle": "An Integrative Approach",
+        "authors": "Toshio Sekimura, H. Frederik Nijhout",
+        "image": "https://www.dbooks.org/img/books/9811049564s.jpg",
+        "url": "https://www.dbooks.org/diversity-and-evolution-of-butterfly-wing-patterns-9811049564/",
+        "price": "14.99"
+    },
+    {
+        "id": "4431545891",
+        "title": "Sexual Reproduction in Animals and Plants",
+        "subtitle": "",
+        "authors": "Hitoshi Sawada, Naokazu Inoue, Megumi Iwano",
+        "image": "https://www.dbooks.org/img/books/4431545891s.jpg",
+        "url": "https://www.dbooks.org/sexual-reproduction-in-animals-and-plants-4431545891/",
+        "price": "29.99"
+    },
+    {
+        "id": "3658259876",
+        "title": "The Technological and Economic Future of Nuclear Power",
+        "subtitle": "",
+        "authors": "Reinhard Haas, Lutz Mez, Amela Ajanovic",
+        "image": "https://www.dbooks.org/img/books/3658259876s.jpg",
+        "url": "https://www.dbooks.org/the-technological-and-economic-future-of-nuclear-power-3658259876/",
+        "price": "19.99"
+    },
+    {
+        "id": "331993435X",
+        "title": "Indigenous Life Projects and Extractivism",
+        "subtitle": "Ethnographies from South America",
+        "authors": "Cecilie Vindal Ødegaard, Juan Javier Rivera Andía",
+        "image": "https://www.dbooks.org/img/books/331993435Xs.jpg",
+        "url": "https://www.dbooks.org/indigenous-life-projects-and-extractivism-331993435x/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319447386",
+        "title": "Fundamentals of Biomechanics",
+        "subtitle": "Equilibrium, Motion, and Deformation",
+        "authors": "Nihat Özkaya, Dawn Leger, David Goldsheyder, Margareta Nordin",
+        "image": "https://www.dbooks.org/img/books/3319447386s.jpg",
+        "url": "https://www.dbooks.org/fundamentals-of-biomechanics-3319447386/",
+        "price": "19.99"
+    },
+    {
+        "id": "3662492792",
+        "title": "Polymer Chemistry",
+        "subtitle": "",
+        "authors": "Sebastian Koltzenburg, Michael Maskos, Oskar Nuyken",
+        "image": "https://www.dbooks.org/img/books/3662492792s.jpg",
+        "url": "https://www.dbooks.org/polymer-chemistry-3662492792/",
+        "price": "19.99"
+    },
+    {
+        "id": "3319543989",
+        "title": "Mass Spectrometry",
+        "subtitle": "A Textbook",
+        "authors": "Jürgen H Gross",
+        "image": "https://www.dbooks.org/img/books/3319543989s.jpg",
+        "url": "https://www.dbooks.org/mass-spectrometry-3319543989/",
+        "price": "7.99"
+    },
+    {
+        "id": "9811320233",
+        "title": "Plant Physiology, Development and Metabolism",
+        "subtitle": "",
+        "authors": "Satish C Bhatla, Manju A. Lal",
+        "image": "https://www.dbooks.org/img/books/9811320233s.jpg",
+        "url": "https://www.dbooks.org/plant-physiology-development-and-metabolism-9811320233/",
+        "price": "14.99"
+    },
+    {
+        "id": "3319463942",
+        "title": "Brewing Science: A Multidisciplinary Approach",
+        "subtitle": "",
+        "authors": "Michael Mosher, Kenneth Trantham",
+        "image": "https://www.dbooks.org/img/books/3319463942s.jpg",
+        "url": "https://www.dbooks.org/brewing-science-a-multidisciplinary-approach-3319463942/",
+        "price": "5.99"
+    },
+    {
+        "id": "3030137880",
+        "title": "Social Psychology in Action",
+        "subtitle": "Evidence-Based Interventions from Theory to Practice",
+        "authors": "Kai Sassenberg, Michael L.W. Vliek",
+        "image": "https://www.dbooks.org/img/books/3030137880s.jpg",
+        "url": "https://www.dbooks.org/social-psychology-in-action-3030137880/",
+        "price": "5.99"
+    },
+    {
+        "id": "3030152243",
+        "title": "Evidence-Based Practice in Clinical Social Work",
+        "subtitle": "",
+        "authors": "James W. Drisko, Melissa D. Grady",
+        "image": "https://www.dbooks.org/img/books/3030152243s.jpg",
+        "url": "https://www.dbooks.org/evidence-based-practice-in-clinical-social-work-3030152243/",
+        "price": "29.99"
+    },
+    {
+        "id": "1463",
+        "title": "Bash Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1463s.jpg",
+        "url": "https://www.dbooks.org/bash-notes-for-professionals-1463/",
+        "price": "19.99"
+    },
+    {
+        "id": "1466",
+        "title": "C# Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1466s.jpg",
+        "url": "https://www.dbooks.org/c-notes-for-professionals-1466/",
+        "price": "12.99"
+    },
+    {
+        "id": "1484",
+        "title": "Haskell Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1484s.jpg",
+        "url": "https://www.dbooks.org/haskell-notes-for-professionals-1484/",
+        "price": "12.99"
+    },
+    {
+        "id": "178374877X",
+        "title": "Agency: Moral Identity and Free Will",
+        "subtitle": "",
+        "authors": "David Weissman",
+        "image": "https://www.dbooks.org/img/books/178374877Xs.jpg",
+        "url": "https://www.dbooks.org/agency-moral-identity-and-free-will-178374877x/",
+        "price": "8.49"
+    },
+    {
+        "id": "1839941464",
+        "title": "Coronavirus: A book for children",
+        "subtitle": "A vitally useful book explaining the current situation in a simple format for children",
+        "authors": "Elizabeth Jenner, Kate Wilson, Nia Roberts",
+        "image": "https://www.dbooks.org/img/books/1839941464s.jpg",
+        "url": "https://www.dbooks.org/coronavirus-a-book-for-children-1839941464/",
+        "price": "14.99"
+    },
+    {
+        "id": "5592543586",
+        "title": "Ruby on Rails Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5592543586s.jpg",
+        "url": "https://www.dbooks.org/ruby-on-rails-notes-for-professionals-5592543586/",
+        "price": "12.99"
+    },
+    {
+        "id": "178374734X",
+        "title": "Waltzing Through Europe",
+        "subtitle": "Attitudes towards Couple Dances in the Long Nineteenth Century",
+        "authors": "Egil Bakka, Theresa Jill Buckland, Helena Saarikoski, Anne von Bibra Wharton",
+        "image": "https://www.dbooks.org/img/books/178374734Xs.jpg",
+        "url": "https://www.dbooks.org/waltzing-through-europe-178374734x/",
+        "price": "8.49"
+    },
+    {
+        "id": "5605981682",
+        "title": "Learning C#",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605981682s.jpg",
+        "url": "https://www.dbooks.org/learning-c-5605981682/",
+        "price": "29.99"
+    },
+    {
+        "id": "5606032576",
+        "title": "Learning Haskell",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606032576s.jpg",
+        "url": "https://www.dbooks.org/learning-haskell-5606032576/",
+        "price": "29.99"
+    },
+    {
+        "id": "5614276129",
+        "title": "The Express Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5614276129s.jpg",
+        "url": "https://www.dbooks.org/the-express-handbook-5614276129/",
+        "price": "14.99"
+    },
+    {
+        "id": "1800642628",
+        "title": "Negotiating Climate Change in Crisis",
+        "subtitle": "",
+        "authors": "Steffen Böhm, Sian Sullivan",
+        "image": "https://www.dbooks.org/img/books/1800642628s.jpg",
+        "url": "https://www.dbooks.org/negotiating-climate-change-in-crisis-1800642628/",
+        "price": "6.49"
+    },
+    {
+        "id": "0262533812",
+        "title": "Introduction to Embedded Systems",
+        "subtitle": "A Cyber-Physical Systems Approach",
+        "authors": "Edward Ashford Lee, Sanjit Arunkumar Seshia",
+        "image": "https://www.dbooks.org/img/books/0262533812s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-embedded-systems-0262533812/",
+        "price": "7.99"
+    },
+    {
+        "id": "5657716841",
+        "title": "Wearable Tech Projects",
+        "subtitle": "30 projects to make, sew, and wear!",
+        "authors": "Sophy Wong",
+        "image": "https://www.dbooks.org/img/books/5657716841s.jpg",
+        "url": "https://www.dbooks.org/wearable-tech-projects-5657716841/",
+        "price": "29.99"
+    },
+    {
+        "id": "5669311255",
+        "title": "Engineering Mechanics: Statics",
+        "subtitle": "",
+        "authors": "Libby (Elizabeth) Osgood, Gayla Cameron, Emma Christensen",
+        "image": "https://www.dbooks.org/img/books/5669311255s.jpg",
+        "url": "https://www.dbooks.org/engineering-mechanics-statics-5669311255/",
+        "price": "7.99"
+    },
+    {
+        "id": "1492038253",
+        "title": "Designing Event-Driven Systems",
+        "subtitle": "Concepts and Patterns for Streaming Services with Apache Kafka",
+        "authors": "Ben Stopford",
+        "image": "https://www.dbooks.org/img/books/1492038253s.jpg",
+        "url": "https://www.dbooks.org/designing-event-driven-systems-1492038253/",
+        "price": "29.99"
+    },
+    {
+        "id": "1800644124",
+        "title": "Introduction to Systems Biology",
+        "subtitle": "Workbook for Flipped-classroom Teaching",
+        "authors": "Thomas Sauter, Marco Albrecht",
+        "image": "https://www.dbooks.org/img/books/1800644124s.jpg",
+        "url": "https://www.dbooks.org/introduction-to-systems-biology-1800644124/",
+        "price": "29.99"
+    },
+    {
+        "id": "1642002038",
+        "title": "AngularDart Succinctly",
+        "subtitle": "",
+        "authors": "Ed Freitas",
+        "image": "https://www.dbooks.org/img/books/1642002038s.jpg",
+        "url": "https://www.dbooks.org/angulardart-succinctly-1642002038/",
+        "price": "6.49"
+    },
+    {
+        "id": "1642002062",
+        "title": "Angular Testing Succinctly",
+        "subtitle": "",
+        "authors": "Joseph Booth",
+        "image": "https://www.dbooks.org/img/books/1642002062s.jpg",
+        "url": "https://www.dbooks.org/angular-testing-succinctly-1642002062/",
+        "price": "5.99"
+    },
+    {
+        "id": "331944431X",
+        "title": "Interferometry and Synthesis in Radio Astronomy",
+        "subtitle": "",
+        "authors": "A. Richard Thompson, James Moran, George Swenson Jr.",
+        "image": "https://www.dbooks.org/img/books/331944431Xs.jpg",
+        "url": "https://www.dbooks.org/interferometry-and-synthesis-in-radio-astronomy-331944431x/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319319035",
+        "title": "Optics in Our Time",
+        "subtitle": "",
+        "authors": "Mohammad D. Al-Amri, Mohamed El-Gomati, M. Suhail Zubairy",
+        "image": "https://www.dbooks.org/img/books/3319319035s.jpg",
+        "url": "https://www.dbooks.org/optics-in-our-time-3319319035/",
+        "price": "6.49"
+    },
+    {
+        "id": "3319743732",
+        "title": "Astronautics",
+        "subtitle": "The Physics of Space Flight",
+        "authors": "Ulrich Walter",
+        "image": "https://www.dbooks.org/img/books/3319743732s.jpg",
+        "url": "https://www.dbooks.org/astronautics-3319743732/",
+        "price": "8.49"
+    },
+    {
+        "id": "331972911X",
+        "title": "Robotics",
+        "subtitle": "",
+        "authors": "Matjaž Mihelj, Tadej Bajd, Aleš Ude, Jadran Lenarčič, Aleš Stanovnik, Marko Munih, Jure Rejc, Sebastjan Šlajpah",
+        "image": "https://www.dbooks.org/img/books/331972911Xs.jpg",
+        "url": "https://www.dbooks.org/robotics-331972911x/",
+        "price": "19.99"
+    },
+    {
+        "id": "3319631330",
+        "title": "Problems in Classical Electromagnetism",
+        "subtitle": "157 Exercises with Solutions",
+        "authors": "Andrea Macchi, Giovanni Moruzzi, Francesco Pegoraro",
+        "image": "https://www.dbooks.org/img/books/3319631330s.jpg",
+        "url": "https://www.dbooks.org/problems-in-classical-electromagnetism-3319631330/",
+        "price": "7.99"
+    },
+    {
+        "id": "3319757083",
+        "title": "Fundamentals of Solid State Engineering",
+        "subtitle": "",
+        "authors": "Manijeh Razeghi",
+        "image": "https://www.dbooks.org/img/books/3319757083s.jpg",
+        "url": "https://www.dbooks.org/fundamentals-of-solid-state-engineering-3319757083/",
+        "price": "14.99"
+    },
+    {
+        "id": "3662530457",
+        "title": "Fundamental Astronomy",
+        "subtitle": "",
+        "authors": "Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner",
+        "image": "https://www.dbooks.org/img/books/3662530457s.jpg",
+        "url": "https://www.dbooks.org/fundamental-astronomy-3662530457/",
+        "price": "5.99"
+    },
+    {
+        "id": "5591635411",
+        "title": "ASP.NET WebHooks Succinctly",
+        "subtitle": "",
+        "authors": "Gaurav Arora",
+        "image": "https://www.dbooks.org/img/books/5591635411s.jpg",
+        "url": "https://www.dbooks.org/aspnet-webhooks-succinctly-5591635411/",
+        "price": "7.99"
+    },
+    {
+        "id": "0998837288",
+        "title": "Variational Principles in Classical Mechanics",
+        "subtitle": "",
+        "authors": "Douglas Cline",
+        "image": "https://www.dbooks.org/img/books/0998837288s.jpg",
+        "url": "https://www.dbooks.org/variational-principles-in-classical-mechanics-0998837288/",
+        "price": "12.99"
+    },
+    {
+        "id": "1449",
+        "title": "CSS Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1449s.jpg",
+        "url": "https://www.dbooks.org/css-notes-for-professionals-1449/",
+        "price": "24.99"
+    },
+    {
+        "id": "5629146344",
+        "title": "How to Code in HTML5 and CSS3",
+        "subtitle": "",
+        "authors": "Damian Wielgosik",
+        "image": "https://www.dbooks.org/img/books/5629146344s.jpg",
+        "url": "https://www.dbooks.org/how-to-code-in-html5-and-css3-5629146344/",
+        "price": "14.99"
+    },
+    {
+        "id": "1491928158",
+        "title": "Transforms in CSS",
+        "subtitle": "Revamp the Way You Design",
+        "authors": "Eric A. Meyer",
+        "image": "https://www.dbooks.org/img/books/1491928158s.jpg",
+        "url": "https://www.dbooks.org/transforms-in-css-1491928158/",
+        "price": "14.99"
+    },
+    {
+        "id": "1514",
+        "title": "jQuery Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1514s.jpg",
+        "url": "https://www.dbooks.org/jquery-notes-for-professionals-1514/",
+        "price": "5.99"
+    },
+    {
+        "id": "3319475908",
+        "title": "Cyber-Physical Systems of Systems",
+        "subtitle": "Foundations – A Conceptual Model and Some Derivations: The AMADEOS Legacy",
+        "authors": "Andrea Bondavalli, Sara Bouchenak, Hermann Kopetz",
+        "image": "https://www.dbooks.org/img/books/3319475908s.jpg",
+        "url": "https://www.dbooks.org/cyber-physical-systems-of-systems-3319475908/",
+        "price": "12.99"
+    },
+    {
+        "id": "1451",
+        "title": "HTML5 Canvas Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1451s.jpg",
+        "url": "https://www.dbooks.org/html5-canvas-notes-for-professionals-1451/",
+        "price": "7.99"
+    },
+    {
+        "id": "5606040861",
+        "title": "Learning HTML5 Canvas",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606040861s.jpg",
+        "url": "https://www.dbooks.org/learning-html5-canvas-5606040861/",
+        "price": "5.99"
+    },
+    {
+        "id": "5614163748",
+        "title": "The HTML Handbook",
+        "subtitle": "",
+        "authors": "Flavio Copes",
+        "image": "https://www.dbooks.org/img/books/5614163748s.jpg",
+        "url": "https://www.dbooks.org/the-html-handbook-5614163748/",
+        "price": "14.99"
+    },
+    {
+        "id": "007222438X",
+        "title": "Hacking Exposed Web Applications",
+        "subtitle": "",
+        "authors": "Joel Scambray, Mike Shema",
+        "image": "https://www.dbooks.org/img/books/007222438Xs.jpg",
+        "url": "https://www.dbooks.org/hacking-exposed-web-applications-007222438x/",
+        "price": "14.99"
+    },
+    {
+        "id": "5591650568",
+        "title": "PHP Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5591650568s.jpg",
+        "url": "https://www.dbooks.org/php-notes-for-professionals-5591650568/",
+        "price": "7.99"
+    },
+    {
+        "id": "5605975792",
+        "title": "Learning PHP",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5605975792s.jpg",
+        "url": "https://www.dbooks.org/learning-php-5605975792/",
+        "price": "29.99"
+    },
+    {
+        "id": "1617295086",
+        "title": "Exploring .NET Core",
+        "subtitle": "with Microservices, ASP.NET Core, and Entity Framework Core",
+        "authors": "Dustin Metzgar",
+        "image": "https://www.dbooks.org/img/books/1617295086s.jpg",
+        "url": "https://www.dbooks.org/exploring-net-core-1617295086/",
+        "price": "6.49"
+    },
+    {
+        "id": "1452",
+        "title": "iOS Developer Notes for Professionals",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/1452s.jpg",
+        "url": "https://www.dbooks.org/ios-developer-notes-for-professionals-1452/",
+        "price": "19.99"
+    },
+    {
+        "id": "1456",
+        "title": "PHP Succinctly",
+        "subtitle": "",
+        "authors": "José Roberto Olivas Mendoza",
+        "image": "https://www.dbooks.org/img/books/1456s.jpg",
+        "url": "https://www.dbooks.org/php-succinctly-1456/",
+        "price": "14.99"
+    },
+    {
+        "id": "1527",
+        "title": "ASP.NET Core 2 Succinctly",
+        "subtitle": "",
+        "authors": "Simone Chiaretta, Ugo Lattanzi",
+        "image": "https://www.dbooks.org/img/books/1527s.jpg",
+        "url": "https://www.dbooks.org/aspnet-core-2-succinctly-1527/",
+        "price": "7.99"
+    },
+    {
+        "id": "5591602846",
+        "title": "PHP: The Right Way",
+        "subtitle": "Your guide to PHP best practices, coding standards, and authoritative tutorials",
+        "authors": "Phil Sturgeon, Josh Lockhart",
+        "image": "https://www.dbooks.org/img/books/5591602846s.jpg",
+        "url": "https://www.dbooks.org/php-the-right-way-5591602846/",
+        "price": "10.99"
+    },
+    {
+        "id": "5591617902",
+        "title": "Webapps in Go",
+        "subtitle": "the anti textbook",
+        "authors": "Suraj Patil",
+        "image": "https://www.dbooks.org/img/books/5591617902s.jpg",
+        "url": "https://www.dbooks.org/webapps-in-go-5591617902/",
+        "price": "5.99"
+    },
+    {
+        "id": "5601038789",
+        "title": "PicoLisp Works",
+        "subtitle": "References, Tutorials, Articles, Essays",
+        "authors": "Thorsten Jolitz",
+        "image": "https://www.dbooks.org/img/books/5601038789s.jpg",
+        "url": "https://www.dbooks.org/picolisp-works-5601038789/",
+        "price": "8.49"
+    },
+    {
+        "id": "1642002054",
+        "title": "ASP.NET Core 3.1 Succinctly",
+        "subtitle": "",
+        "authors": "Simone Chiaretta, Ugo Lattanzi",
+        "image": "https://www.dbooks.org/img/books/1642002054s.jpg",
+        "url": "https://www.dbooks.org/aspnet-core-31-succinctly-1642002054/",
+        "price": "5.99"
+    },
+    {
+        "id": "5606031542",
+        "title": "Learning iOS",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606031542s.jpg",
+        "url": "https://www.dbooks.org/learning-ios-5606031542/",
+        "price": "7.99"
+    },
+    {
+        "id": "5606032768",
+        "title": "Learning Go",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606032768s.jpg",
+        "url": "https://www.dbooks.org/learning-go-5606032768/",
+        "price": "29.99"
+    },
+    {
+        "id": "5606039011",
+        "title": "Learning SAS",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606039011s.jpg",
+        "url": "https://www.dbooks.org/learning-sas-5606039011/",
+        "price": "29.99"
+    },
+    {
+        "id": "5606041062",
+        "title": "Learning LaTeX",
+        "subtitle": "",
+        "authors": "Stack Overflow Community",
+        "image": "https://www.dbooks.org/img/books/5606041062s.jpg",
+        "url": "https://www.dbooks.org/learning-latex-5606041062/",
+        "price": "29.99"
+    },
+    {
+        "id": "5635522059",
+        "title": "CakePHP Cookbook Documentation",
+        "subtitle": "Release 4.x",
+        "authors": "Cake Software Foundation",
+        "image": "https://www.dbooks.org/img/books/5635522059s.jpg",
+        "url": "https://www.dbooks.org/cakephp-cookbook-documentation-5635522059/",
+        "price": "12.99"
+    },
+    {
+        "id": "5651687191",
+        "title": "Apache HTTP Server Cookbook",
+        "subtitle": "Hot Recipes for the Apache Web Server",
+        "authors": "JCGs",
+        "image": "https://www.dbooks.org/img/books/5651687191s.jpg",
+        "url": "https://www.dbooks.org/apache-http-server-cookbook-5651687191/",
+        "price": "5.99"
+    }
+]
+ }
