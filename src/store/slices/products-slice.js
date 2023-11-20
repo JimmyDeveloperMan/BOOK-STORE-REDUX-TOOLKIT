@@ -11,7 +11,9 @@ export const fetchProducts = createAsyncThunk(
       // const getRandomPrice = () => prices[Math.floor(Math.random() * prices.length)].toFixed(2);
       // return res.map(el => ({ ...el, price: getRandomPrice() }))
       return (
-        await axios.get(`http://localhost:2000/books/?q=${keyword.trim()}`)
+        await axios.get(
+          `https://server-react-book-store-redux-toolkit.vercel.app/books/?q=${keyword.trim()}`
+        )
       ).data;
     } catch (error) {
       return rejectWithValue(error.message);
@@ -23,7 +25,11 @@ export const productDitails = createAsyncThunk(
   async (id, thunkApi) => {
     const { rejectWithValue } = thunkApi;
     try {
-      return (await axios.get(`http://localhost:2000/books/${id}`)).data;
+      return (
+        await axios.get(
+          `https://server-react-book-store-redux-toolkit.vercel.app/books/${id}`
+        )
+      ).data;
     } catch (error) {
       return rejectWithValue(error.message);
     }
